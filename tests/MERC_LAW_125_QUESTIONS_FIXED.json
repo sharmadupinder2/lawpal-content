@@ -1,6 +1,7 @@
 {
   "exam": "MERC.LAW_FAMILY_LAW_REGISTRATION_2-11-2014",
   "totalQuestions": 125,
+  "duration": "60",
   "questions": [
     {
       "questionNumber": 1,
