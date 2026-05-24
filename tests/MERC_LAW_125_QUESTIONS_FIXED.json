@@ -1,0 +1,1381 @@
+{
+  "exam": "MERC.LAW_FAMILY_LAW_REGISTRATION_2-11-2014",
+  "totalQuestions": 125,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "The essence of sale is that the property is transferred from the seller to buyer for a",
+      "options": {
+        "a": "Goods",
+        "b": "Price",
+        "c": "Consideration, money or goods",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 2,
+      "question": "An agreement to buy imports",
+      "options": {
+        "a": "A legal obligation",
+        "b": "No legal obligation",
+        "c": "All legal obligations which can be imposed by sale",
+        "d": "Both a and b"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 3,
+      "question": "The legal incidents of sale and agreement of sell are",
+      "options": {
+        "a": "Same",
+        "b": "Similar",
+        "c": "Different",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 4,
+      "question": "The sale of human organ is forbidden by",
+      "options": {
+        "a": "The Contract A ct, 1872",
+        "b": "The S ale of Goods A ct, 1930",
+        "c": "The Human Organ T ransplants A ct, 1989",
+        "d": "All of the above"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 5,
+      "question": "Where the hirer does not have the option to return, it will be",
+      "options": {
+        "a": "On agreement to buy",
+        "b": "Not a hire purchase",
+        "c": "Both a and b",
+        "d": "Neither a n or b"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 6,
+      "question": "Which of the following sentence is not correct wit h respect to contract of sale?",
+      "options": {
+        "a": "The contract may provide for the immediate delivery of the goods or immediate payment of the price",
+        "b": "The contract may provide for the immediate delivery of the goods and immediate payment of price (both)",
+        "c": "The contract may provide for the payment by installment",
+        "d": "The contract may provide for the delivery or payment by installment but both shall not be postponed"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 7,
+      "question": "The subject matter of a sale can only be",
+      "options": {
+        "a": "Existing goods owned by the seller",
+        "b": "Exist ing goods possessed by the selle r",
+        "c": "Future goods",
+        "d": "All of the above"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 8,
+      "question": "Section 11 of the SOGA, 1930 deals with",
+      "options": {
+        "a": "Essence of time",
+        "b": "Essence of time of payment a blue print of success Rahul’s 2",
+        "c": "Essence of time of performance",
+        "d": "Essence of time of delivery"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 9,
+      "question": "As a general rule, in a contract of sale",
+      "options": {
+        "a": "Time of payment is not a condition of the contract",
+        "b": "The buyer's failure to pay in time does not entitle the seller to repudiate the contract",
+        "c": "Stipulations as to time of payment are not deemed to be of the essence of the contract",
+        "d": "All of the above"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 10,
+      "question": "A condition, in a contract of sale is",
+      "options": {
+        "a": "Essenti al to the main purpose of the contract",
+        "b": "Collateral to the main purpose of the contract",
+        "c": "Ancillary to the main purpose of the contract",
+        "d": "All of the above"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 11,
+      "question": "When a condition is reduced to the status of a warranty, the effect is that the condition becomes",
+      "options": {
+        "a": "A guarantee",
+        "b": "A warranty",
+        "c": "Either a or b",
+        "d": "Neither a nor b"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 12,
+      "question": "There can be no sale at all of goods which the seller has no",
+      "options": {
+        "a": "Ownership",
+        "b": "Possession",
+        "c": "Right to sell",
+        "d": "All of the above"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 13,
+      "question": "Section 14 of the SOGA , 1930 lays down",
+      "options": {
+        "a": "Condition which is implied by law",
+        "b": "Warranty which is implied by law",
+        "c": "Condition which is implied by law in a sale by description",
+        "d": "Both a and b"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 14,
+      "question": "Foremost test of merchantable quality is",
+      "options": {
+        "a": "Fit for buyer’s purpose",
+        "b": "Salability",
+        "c": "Quality",
+        "d": "All of the above"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 15,
+      "question": "Where there is an unconditional contract for the sale of spe cific good in deliverable state , the property in the goods passes to the buyer",
+      "options": {
+        "a": "When the contract is made",
+        "b": "Only when the price is paid",
+        "c": "Only when the delivery is made",
+        "d": "None of the above"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 16,
+      "question": "The principle base d on maxim, nemo dat quod non habet , is enshrined in",
+      "options": {
+        "a": "Section 23 of SOGA,1930",
+        "b": "Section 24 of SOGA,1930",
+        "c": "Section 26 of SOGA,1930",
+        "d": "Section 27 of SOGA,1930"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 17,
+      "question": "The condition for the application of section 29 of the SOGA is that the goods should have been obtained under",
+      "options": {
+        "a": "Void Contract",
+        "b": "Voidable Contract",
+        "c": "Valid Contract",
+        "d": "Either a or b or c"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 18,
+      "question": "Which of the following requirements needs to be fulfilled for the app licability of section 20 of SOGA ?",
+      "options": {
+        "a": "specific goods",
+        "b": "goods should be in a deliverable state",
+        "c": "unconditional contract",
+        "d": "all of the above 3"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 19,
+      "question": "Appropriation of goods to the contract involves",
+      "options": {
+        "a": "A unilateral a ct",
+        "b": "A bilateral a ct",
+        "c": "Element of common intention",
+        "d": "both b and c"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 20,
+      "question": "Where the goods are already in the possession of a bailee and he acknowledges to h old them on the seller’s behalf , that amounts to",
+      "options": {
+        "a": "a conditional appropriation",
+        "b": "an unconditional appropriation",
+        "c": "no appropriation",
+        "d": "none of the above"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 21,
+      "question": "The maximum number of partners in a partnership, has been provided under",
+      "options": {
+        "a": "The Indian C ompanies A ct",
+        "b": "The Indian P artnership A ct",
+        "c": "The Indian C ontract A ct",
+        "d": "Both a and b"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 22,
+      "question": "The notice of intention to dissolve the firm, u/s 43 of the A ct, must be",
+      "options": {
+        "a": "In writing",
+        "b": "A verbal communication",
+        "c": "Both a and b",
+        "d": "Not mentioned"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 23,
+      "question": "The partnership at will can be dissolved by giving a notice of intention to dissolve the partnership to",
+      "options": {
+        "a": "The managing partner",
+        "b": "The majority of the partner",
+        "c": "All the partners",
+        "d": "Any of the partners"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 24,
+      "question": "The type of dissolution described u/ s-42 of the Indian partnership A ct, 1932, is",
+      "options": {
+        "a": "Contingent dissolution",
+        "b": "Compulsory dissolution",
+        "c": "Dissolution by the court",
+        "d": "None o f the above"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 25,
+      "question": "The retired partner, without public notice, remains liable by holding out to those customers of the firm who have given credit without knowledge of the retirement. The customer can sue",
+      "options": {
+        "a": "Old firm",
+        "b": "New firm",
+        "c": "Both a and b",
+        "d": "Either a or b"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 26,
+      "question": "A partner may retire at any time with the consent of",
+      "options": {
+        "a": "Majority of partners",
+        "b": "All his partners",
+        "c": "Managing partners",
+        "d": "All acting partners"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 27,
+      "question": "Every partner has a right to ha ve access to and to inspect and copy any of the book s of the firm. A partner may exercise such right",
+      "options": {
+        "a": "Himsel f",
+        "b": "By agent",
+        "c": "Either a or b",
+        "d": "Only by himself"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 28,
+      "question": "Which of the following will not survive/applicable, where a firm is constituted for a fixed term but continues to carry on business after the expiry of the term",
+      "options": {
+        "a": "The right to ask for arbitration",
+        "b": "The right of a slee ping partner to participate in profits 4",
+        "c": "A term laying the period for a notice to dissolve the firm",
+        "d": "All of the above"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 29,
+      "question": "The right to indemnity is lost",
+      "options": {
+        "a": "If the firm has been dissolved",
+        "b": "If there has been no settlement of accounts",
+        "c": "By any of the above reason",
+        "d": "None of the above"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 30,
+      "question": "Where a partnership is created for a fixed period or for a particular business, it should naturally come to an end on the expiry of such period or on the completion of such business. But what often happens is that the partners continue the firm w ithout any new agreement. Which section of the Partnership Act is enacted to meet such cases?",
+      "options": {
+        "a": "Section 13",
+        "b": "Section 14",
+        "c": "Section 17",
+        "d": "Section 24"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 31,
+      "question": "Where a firm is constituted for a fixed term, but continues to carry on business after the expiry of the term",
+      "options": {
+        "a": "The new firm becomes a firm at will",
+        "b": "Only such rights and duties with survive as are consistent with a firm",
+        "c": "The firm will deemed to be dissolved",
+        "d": "Both a and b"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 32,
+      "question": "",
+      "options": {
+        "a": "agent",
+        "b": "power of attorney",
+        "c": "representative",
+        "d": "all of the above"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 33,
+      "question": "Change in the nature of the business of a partnership firm can be made",
+      "options": {
+        "a": "With the consent of managing p artner",
+        "b": "With the consent of all the partners",
+        "c": "With the consent of majority of the partners",
+        "d": "Either b or c as the case may be"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 34,
+      "question": "A partner of a firm at will can retire from the firm at anytime by giving to his co -partners a notice of his intention to retire by virtue of",
+      "options": {
+        "a": "Section 27 of the Partnership Act",
+        "b": "Section 32 of the Partnership Act",
+        "c": "Section 42 of the Partnership Act",
+        "d": "Section 43 of the Partnership Act"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 35,
+      "question": "Which of the following is not a body corporate?",
+      "options": {
+        "a": "Company",
+        "b": "Partnership",
+        "c": "Limited liability partnership",
+        "d": "Both b and c"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 36,
+      "question": "Under the Partnership Act , 1932 partners have to trade with",
+      "options": {
+        "a": "Unlimited liability",
+        "b": "Limited liability",
+        "c": "Either a or b",
+        "d": "None of the above"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 37,
+      "question": "The net result of historic decision in Cox v. Hickman is",
+      "options": {
+        "a": "No man is a partner unless he has the right to share the profits of the business",
+        "b": "Every man who received profits is not necessarily a partner 5",
+        "c": "Both a and b",
+        "d": "Neither a nor b"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 38,
+      "question": "Partnership not created by",
+      "options": {
+        "a": "Status",
+        "b": "Formal or written agreement",
+        "c": "Both a and b",
+        "d": "None of the above"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 39,
+      "question": "The conclusive test of the existence of a partnership is",
+      "options": {
+        "a": "Sharing of profit",
+        "b": "Mutual agency",
+        "c": "Business",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 40,
+      "question": "If a partner carries on any personal business in breach of partnership agreement",
+      "options": {
+        "a": "He will be liable to account for his profit",
+        "b": "His co -partners may apply u/s 44 (",
+        "d": "for dissolution of the firm",
+        "c": "Both a an d b d. None of the above"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 41,
+      "question": "A sunni female cannot marry",
+      "options": {
+        "a": "sunni male",
+        "b": "shia male",
+        "c": "kitabia male",
+        "d": "both b and c"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 42,
+      "question": "A shia male can contract a muta marriage with",
+      "options": {
+        "a": "sunni female",
+        "b": "kitabia female",
+        "c": "fire- worshipper female",
+        "d": "all of the above"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 43,
+      "question": "The marriage of a sunni male with a shia female is",
+      "options": {
+        "a": "void",
+        "b": "valid",
+        "c": "irregular",
+        "d": "none of the above"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 44,
+      "question": "If the widow is pregnant at the death of her husband and delivery or miscarriage comes before 4 months and 10 days of iddat period",
+      "options": {
+        "a": "the remaining period will have to be observ ed",
+        "b": "the remaining period need not to be observed",
+        "c": "Muslim p ersonal law is not clear on the se point",
+        "d": "none of the above"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 45,
+      "question": "Talak - ul - biddat is",
+      "options": {
+        "a": "complete and irrevocable divorce",
+        "b": "incomplete and irrevocable divorce",
+        "c": "complete and revocable divorce",
+        "d": "none of these"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 46,
+      "question": "If a M uslim husband has falsely charged his wi fe with adultery, the process of retract is called -",
+      "options": {
+        "a": "zihar",
+        "b": "lian",
+        "c": "ila",
+        "d": "none of the above"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 47,
+      "question": "Under Muslim Law a \"will\" may be made of",
+      "options": {
+        "a": "1/2 of the property 6",
+        "b": "1/3 of the property",
+        "c": "1/4 of the property",
+        "d": "The entire property"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 48,
+      "question": "When in a Muslim marriage, M ehr is unspecified, the wife is entitled to get",
+      "options": {
+        "a": "mehr -i-muajjal",
+        "b": "mehr -i-muwajjal",
+        "c": "mehr -i-misl",
+        "d": "all of the above"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 49,
+      "question": "A M uslim women guilty of illicit relationship is punishable for",
+      "options": {
+        "a": "zina",
+        "b": "lian",
+        "c": "khula",
+        "d": "none of the above"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 50,
+      "question": "Under Muslim law, a divorce by khula is a divorce with the consent and at the instance of",
+      "options": {
+        "a": "husband",
+        "b": "wife",
+        "c": "kazi",
+        "d": "husband and wife"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 51,
+      "question": "It is also known as 'doctrine of public good' -",
+      "options": {
+        "a": "doctrine of I stislah",
+        "b": "doctrine of I stihsan",
+        "c": "doctrine of N askh",
+        "d": "both A and B"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 52,
+      "question": "Traditions which is done in prophet presence without his disapproval is known as",
+      "options": {
+        "a": "sunnat - ul-fail",
+        "b": "sunnat - ul-qaul",
+        "c": "sunnat - ul-tuqrir",
+        "d": "none of the above"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 53,
+      "question": "In which of the following case it was held that the applicati on of section 125 C rPC to women other than Muslim women and application of Muslim women (protection of rights on Divorce) Act, 1986 to the latter did not create discrimination between them?",
+      "options": {
+        "a": "Iqbal Bano v. State of U.P.",
+        "b": "Denial Latifi v. Union of India",
+        "c": "Chan d Bi v. Bandesha",
+        "d": "Shimim Ara v. State of U.P."
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 54,
+      "question": "Under Muslim personal law wife is entitle to dower",
+      "options": {
+        "a": "If a void marriage has been consummated",
+        "b": "If an irregular marriage has been consummated",
+        "c": "Both a and b",
+        "d": "Neither a nor b"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 55,
+      "question": "Under Muslim Law , if an irregular marriage is consummated, wife is entitled to get",
+      "options": {
+        "a": "specified dower",
+        "b": "proper dower",
+        "c": "specified or proper dower, whichever is less",
+        "d": "specified or proper dower, whichever is high"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 56,
+      "question": "Under Muslim Law judicial divorce is known as",
+      "options": {
+        "a": "Ila",
+        "b": "Fask",
+        "c": "Lian",
+        "d": "Zina 7"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 57,
+      "question": "Talaq -ul-biddat is a recognised form of divorce among",
+      "options": {
+        "a": "Hanafis",
+        "b": "Shias",
+        "c": "Malikis",
+        "d": "Both a and c"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 58,
+      "question": "Zihar would become incumbent on the husband only if the........ ........ was intended disrespectfully",
+      "options": {
+        "a": "comparison",
+        "b": "assimilation",
+        "c": "comparison or assimilation",
+        "d": "none of the above"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 59,
+      "question": "The declaration of Zihar itself terminate",
+      "options": {
+        "a": "the marriage tie",
+        "b": "the claim of the wife for the restitution of conjugal rights",
+        "c": "both a and b",
+        "d": "neither a nor b"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 60,
+      "question": ".............., in fact, is a right of divorce purchased by the wife from the husband",
+      "options": {
+        "a": "Zihar",
+        "b": "Khula",
+        "c": "Talaq -e-tafweez",
+        "d": "Mubarat"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 61,
+      "question": "Under Muslim personal law, which is a 'redemption' of contract of marriage and which is a 'mutual release'?",
+      "options": {
+        "a": "1. Zihar 2. Talaq-e-tafweez",
+        "b": "1. Talaq-e-tafweez 2. Ila",
+        "c": "1. Khula 2. Mubarat",
+        "d": "1. Khula 2. Ila"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 62,
+      "question": "Muslim Law does not recognize",
+      "options": {
+        "a": "Adoption",
+        "b": "Death -bed waqf",
+        "c": "Talaq in malz -ul-maut",
+        "d": "All of the above"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 63,
+      "question": "Gift in favour of an unborn person, under Muslim Law , is",
+      "options": {
+        "a": "Void",
+        "b": "Valid",
+        "c": "Invalid",
+        "d": "None of the above"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 64,
+      "question": "Section 11 of the Hindu Marriage Act, 1954 covers marriage",
+      "options": {
+        "a": "Void ipso jure",
+        "b": "Becomes void",
+        "c": "Voidable",
+        "d": "All of the above"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 65,
+      "question": "“Vivada Ratnakara” is w ell known authorities in",
+      "options": {
+        "a": "Bengal",
+        "b": "Mithila",
+        "c": "Banaras",
+        "d": "Bombay"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 66,
+      "question": "Which of the following is a sub -school of Dayabhaga school?",
+      "options": {
+        "a": "Banaras",
+        "b": "Mithila",
+        "c": "Madras 8",
+        "d": "None of the above"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 67,
+      "question": "Section……..,Hindu Marriage Act lays does that the parties to marriage should not be sapindas to each other",
+      "options": {
+        "a": "5 (iii)",
+        "b": "5 (iv)",
+        "c": "5 (v)",
+        "d": "5 (vi)"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 68,
+      "question": "The spinda relationship is always traced",
+      "options": {
+        "a": "In the line of ascent",
+        "b": "In the line of descent",
+        "c": "Both a and b",
+        "d": "Either a or b"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 69,
+      "question": "Section 17 of the HMA makes bigamous marriage a penal offence under",
+      "options": {
+        "a": "Section 494, IPC",
+        "b": "Section 495, IPC",
+        "c": "Both a and b",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 70,
+      "question": "Concealment of pre -marriage pregnancy by the respondent is a ground of",
+      "options": {
+        "a": "Void marriage",
+        "b": "Voidable marriage",
+        "c": "Annulm ent of marriage",
+        "d": "Both b and c"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 71,
+      "question": "Under Hindu Marriage Act, a petition for nullity must be filed within one year of the discovery of fraud or cessation of force. This condition is",
+      "options": {
+        "a": "Directory",
+        "b": "Mandatory",
+        "c": "Mere Decla ratory",
+        "d": "Flexiable"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 72,
+      "question": "judicial separation can be allowed if the marriage is",
+      "options": {
+        "a": "void",
+        "b": "valid",
+        "c": "voidable",
+        "d": "both b and c"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 73,
+      "question": "Which of the following proceedings under the Hindu Marriage Act is to be conducted in camera?",
+      "options": {
+        "a": "Divorce proceedings",
+        "b": "Proceedings for judicial separation",
+        "c": "Proceedings for restitution of conjugal rights",
+        "d": "Every proceeding under the Act"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 74,
+      "question": "Section 19 of the Hindu Adoption and Maintenance Act provides for maintenance of",
+      "options": {
+        "a": "Daughter in law",
+        "b": "Widow",
+        "c": "Widowed daughter in law",
+        "d": "All of the above"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 75,
+      "question": "Natural guardian of a Hindu minor in case of an illegitimate boy or an illegitim ate unmarried girl is",
+      "options": {
+        "a": "The father",
+        "b": "The mother, and after her the father",
+        "c": "Both mother and father",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 76,
+      "question": "Which section of Hindu Succession Act deals with the concept of ‘Escheat’?",
+      "options": {
+        "a": "Section 27 9",
+        "b": "Section 28",
+        "c": "Section 29",
+        "d": "Section 30"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 77,
+      "question": "Section 12 of Hindu Succession Act deals with order of succession among",
+      "options": {
+        "a": "Agnates",
+        "b": "Cognates",
+        "c": "Both a and b",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 78,
+      "question": "Section 6 of the Hindu Succession Act provides for devolution of interest of coparcenary property in case of Joint Hindu Family governed by",
+      "options": {
+        "a": "Mitakshara law",
+        "b": "Dayabhagha law",
+        "c": "Either a or b",
+        "d": "None of the above"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 79,
+      "question": "Natural guardian of a Hindu minor in the case of a married girl is",
+      "options": {
+        "a": "The mother",
+        "b": "The father",
+        "c": "The husband",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 80,
+      "question": "Under the Hindu Succession Act the presu mption in cases of simultaneous death is that",
+      "options": {
+        "a": "The elder survived the younger",
+        "b": "The younger survived the elder",
+        "c": "There is no question of survival",
+        "d": "There is no such presumption"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 81,
+      "question": "Under the Hindu Succession Act, if two or more heirs succeed together to the property of an interstate, they shall take the property, save as otherwise expressly provided in the Act",
+      "options": {
+        "a": "As tenants in common",
+        "b": "As joint tenants",
+        "c": "Either a or b",
+        "d": "Both a and b"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 82,
+      "question": "Section 25 of the Hindu Succession Act disqualifies a person",
+      "options": {
+        "a": "Who commits murder",
+        "b": "Who abets the commission of murder",
+        "c": "Either a or b",
+        "d": "None of the ab ove"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 83,
+      "question": "Under Hindu Succession Act, no person shall be disqualified from succeeding to any property on the ground of any",
+      "options": {
+        "a": "Disease",
+        "b": "Defect",
+        "c": "Deformity",
+        "d": "Any of the above"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 84,
+      "question": "A contract which has been rendered as void on the mistake this may may relate to",
+      "options": {
+        "a": "Law",
+        "b": "Fact and law",
+        "c": "Fact",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 85,
+      "question": "Mark the incorrect statement",
+      "options": {
+        "a": "Fraud by a stranger to the contract does not effect contract",
+        "b": "Coercion as well as undue influence by a stranger to a contract effect the contract",
+        "c": "Fraud is a civil wrong , coercion is a criminal wrong a lso",
+        "d": "Both fraud and coercion are civil wrong 10"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 86,
+      "question": "In which of the following cases, a minor’s agreement is ‘absol utely void’",
+      "options": {
+        "a": "Contracts for repayment of money lent or to be lent",
+        "b": "Contracts for goods supplied or to be supplied",
+        "c": "Contracts for accounts stated",
+        "d": "All of the abov e"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 87,
+      "question": "When can it be said that one party is able to dominate the will of the other?",
+      "options": {
+        "a": "where there is active trust",
+        "b": "where there is confidence between the parties",
+        "c": "both A and B inclusive",
+        "d": "none of the above"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 88,
+      "question": "Rescission is always subject to the cond ition that the party seeking rescission must be in a position to restore the benefits he may have obtained under the contract. Which section of the ICA requires him to do so",
+      "options": {
+        "a": "Section 63",
+        "b": "Section 64",
+        "c": "Section 66",
+        "d": "Section 67"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 89,
+      "question": "Section 20 of the Indian contract Act (ICA) applies in cases",
+      "options": {
+        "a": "where mistake defects consent",
+        "b": "where mistake misleads the parties",
+        "c": "in both the above cases",
+        "d": "none of the above"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 90,
+      "question": "An auctioneer's announcement that specifies goods will be sold by auction on a certain day is",
+      "options": {
+        "a": "an offer",
+        "b": "an invitation to receive offers",
+        "c": "an implied offer",
+        "d": "none of the above"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 91,
+      "question": "Section 25 (2) of the ICA covers",
+      "options": {
+        "a": "past voluntary service",
+        "b": "past service at request",
+        "c": "both A and B",
+        "d": "none of the above"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 92,
+      "question": "What the Indian law calls 'coercion' is called in English law",
+      "options": {
+        "a": "Duress",
+        "b": "Menace",
+        "c": "Both A and b",
+        "d": "None of the above (distress)"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 93,
+      "question": "Condition for rescission is",
+      "options": {
+        "a": "voidable contract",
+        "b": "restoration of benefits",
+        "c": "valid contract",
+        "d": "both a and b"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 94,
+      "question": "When the parties are at distance and are contracting through post, contract concluded",
+      "options": {
+        "a": "when the acceptance is posted",
+        "b": "when the letter of acceptance is received",
+        "c": "either A or B, as the case may be",
+        "d": "none of the above"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 95,
+      "question": "The usual mode of rescinding a cont ract is",
+      "options": {
+        "a": "giving notice to the other party to that effect",
+        "b": "filing suit for rescission of the contract",
+        "c": "restoring the benefits",
+        "d": "all of the above 11"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 96,
+      "question": "In case of breach of contract, injun ction may be granted :-",
+      "options": {
+        "a": "temporarily",
+        "b": "for an indefinite period",
+        "c": "either a and b",
+        "d": "none of the above"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 97,
+      "question": "Which of the following facts is not essential to agreement?",
+      "options": {
+        "a": "the identity of the parties",
+        "b": "the identity and the nature of the subject -matter of the contract",
+        "c": "the nature and content of the promise itself",
+        "d": "none of the above"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 98,
+      "question": "An agreement between two persons to injure the person or property of another is : -",
+      "options": {
+        "a": "illegal",
+        "b": "unlawful",
+        "c": "void",
+        "d": "all of the above"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 99,
+      "question": "A agrees to sell to B \"all the grain in my granary at Ramnagar\". The agreement is",
+      "options": {
+        "a": "uncertain",
+        "b": "void",
+        "c": "valid",
+        "d": "both A and B"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 100,
+      "question": "An agreement by a client to pay his lawyer according to the result of the case is",
+      "options": {
+        "a": "valid",
+        "b": "void",
+        "c": "voidable but against the public policy",
+        "d": "none of the above"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 101,
+      "question": "A void agreement is necessarily",
+      "options": {
+        "a": "unlawful",
+        "b": "illegal",
+        "c": "forbidden by law",
+        "d": "none of the above"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 102,
+      "question": "Which of the following cases is related to doctrine of frustration?",
+      "options": {
+        "a": "Krell v. H enry",
+        "b": "Paradine v. Jane",
+        "c": "Satyabrata v. Mugneeram",
+        "d": "All of the above"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 103,
+      "question": "If A owes B Rs. 500 and B owes C a like amount, B has the right to receive from A and is under liability to pay C. B can ask A to pay directly to C and if A accepts, this will be",
+      "options": {
+        "a": "a novation of contract",
+        "b": "an assignment of contract",
+        "c": "a rescission of contract",
+        "d": "both A and B"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 104,
+      "question": "If a member of either house of Parliament is absent from the meetings of the house without permission for more than ……….. his seat shall become vacant",
+      "options": {
+        "a": "30 days",
+        "b": "60 days",
+        "c": "6 months",
+        "d": "90 days"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 105,
+      "question": "Which Article of the constitution provides that a person shall be disqualified for being a membe r of either house of parliament , if he is so disqualified under anti -defection act 1985 as given in the tenth schedule?",
+      "options": {
+        "a": "Article 100 12",
+        "b": "Article 101",
+        "c": "Article 102",
+        "d": "Article 104"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 106,
+      "question": "The CAG takes oath before the President in the form prescribed in the",
+      "options": {
+        "a": "Second schedule",
+        "b": "Third schedule",
+        "c": "Fourth schedule",
+        "d": "Fifth schedule"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 107,
+      "question": "Article 144 of the constitution provides that …….. shall act in aid of the supreme court",
+      "options": {
+        "a": "civil authorities",
+        "b": "judicial authorities",
+        "c": "civilian and civil and judicial authorities",
+        "d": "civil and judicial authorities"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 108,
+      "question": "Constituti on of India provides that there shall be not less than sixty members in a Legislative Assembly. Which of following is exception to that?",
+      "options": {
+        "a": "Assam",
+        "b": "Tripura",
+        "c": "Goa",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 109,
+      "question": "The Legislative council of a state shall n ot be consist of less than",
+      "options": {
+        "a": "1/3 members of the legislative assembly",
+        "b": "¼ members of the legislative assembly",
+        "c": "40 members",
+        "d": "either a or c"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 110,
+      "question": "He is also known as pioneer of PIL in India",
+      "options": {
+        "a": "Justice Krishna Iyer",
+        "b": "Justice P.N.Bhagwati",
+        "c": "Justice Chandrachud",
+        "d": "Justice Gajendragadkar"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 111,
+      "question": "A member of state public service commission is removed from his office by",
+      "options": {
+        "a": "President",
+        "b": "Governor",
+        "c": "Parliament",
+        "d": "Legislative Assembly"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 112,
+      "question": "Acting Chief Justice of India is appointed by",
+      "options": {
+        "a": "President",
+        "b": "Chief Justice of India",
+        "c": "Chief Justice of India with previous consent of the President",
+        "d": "President in consultation with the Chief Justice India"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 113,
+      "question": "The pension of a High Co urt Judge is charged on",
+      "options": {
+        "a": "The consolidated fund of the state",
+        "b": "The public account of the state",
+        "c": "The consolidated fund of India",
+        "d": "The public account of India"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 114,
+      "question": "An un -registered document may be received as evidence of a contract i n a suit for",
+      "options": {
+        "a": "declaration",
+        "b": "possession",
+        "c": "recently",
+        "d": "specific performance 13"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 115,
+      "question": "Section 48 of the Registration Act deals with registered documents relating to property when to take effect against",
+      "options": {
+        "a": "written agreements",
+        "b": "ora l agreements",
+        "c": "both a and b",
+        "d": "none of the above"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 116,
+      "question": "Section 17 (3) of the Registration Act deals with",
+      "options": {
+        "a": "adoption deed",
+        "b": "maintenance deed",
+        "c": "authorities to adopt",
+        "d": "all of the above"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 117,
+      "question": "Registration of will is",
+      "options": {
+        "a": "statutory requirement",
+        "b": "mandatory",
+        "c": "optional",
+        "d": "rule of law"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 118,
+      "question": "Section 33 of the Registration Act deals with …….for the purpose of section 32.",
+      "options": {
+        "a": "agent",
+        "b": "power of attorney",
+        "c": "representative",
+        "d": "all of the above"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 119,
+      "question": "World Literacy Day celebrated on",
+      "options": {
+        "a": "6th September",
+        "b": "7th September",
+        "c": "8th September",
+        "d": "9th September"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 120,
+      "question": "First Indian Actor to be honored by US post service",
+      "options": {
+        "a": "Manoj Kumar",
+        "b": "A.Nageswara Rao",
+        "c": "Rajendra Kumar",
+        "d": "Prithvi Raj Kapoor"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 121,
+      "question": "World’s first digital currency to be issued by which country",
+      "options": {
+        "a": "Ecuador",
+        "b": "Singapore",
+        "c": "France",
+        "d": "Germany"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "questionNumber": 122,
+      "question": "First state in India to launch a Health Adalat",
+      "options": {
+        "a": "Rajasthan",
+        "b": "Madhya Pradesh",
+        "c": "Maharashtra",
+        "d": "Karnataka"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "questionNumber": 123,
+      "question": "First women’s court was set up in",
+      "options": {
+        "a": "Delhi",
+        "b": "Bihar",
+        "c": "West Bengal",
+        "d": "Gujarat"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 124,
+      "question": "First country to Impose carbon Tax",
+      "options": {
+        "a": "Australia",
+        "b": "South Africa",
+        "c": "New Zealand",
+        "d": "England 14"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 125,
+      "question": "According to WHO, which country recorded the highest rate if child marriages",
+      "options": {
+        "a": "India",
+        "b": "Bangladesh",
+        "c": "Sri lanka",
+        "d": "Pakistan 15"
+      },
+      "correctAnswer": "b"
+    }
+  ]
+}

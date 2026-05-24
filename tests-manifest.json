@@ -1,0 +1,10 @@
+{
+  "tests": [
+    {
+      "id": 1,
+      "filename": "MERC_LAW_125_QUESTIONS_FIXED.json",
+      "name": "MERC Law Exam",
+      "description": "Comprehensive exam covering Mercantile Law, Family Law, and Registration topics"
+    }
+  ]
+}
