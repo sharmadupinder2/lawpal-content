@@ -5,6 +5,21 @@
   "semester": "Semester I",
   "resources": [
     {
+      "id": "semester-i-syllabus",
+      "title": "Semester I Syllabus and Trackers",
+      "paper": "Papers I-V",
+      "category": "Syllabus and trackers",
+      "description": "Punjabi University Semester I syllabus overview and progress trackers for all five LL.B. papers.",
+      "contentFile": "semester-i-syllabus.json",
+      "downloads": [
+        {
+          "label": "Download DOCX",
+          "filename": "LawPal_India_Semester_I_Syllabus_Trackers.docx",
+          "format": "DOCX"
+        }
+      ]
+    },
+    {
       "id": "family-law-i",
       "title": "Family Law I",
       "paper": "Paper IV",
@@ -75,26 +90,6 @@
         {
           "label": "Download DOCX",
           "filename": "LawPal_India_Jurisprudence_Legal_Size_Notes.docx",
-          "format": "DOCX"
-        },
-        {
-          "label": "Download PDF",
-          "filename": "LawPal_India_Jurisprudence_Legal_Size_Notes.pdf",
-          "format": "PDF"
-        }
-      ]
-    },
-    {
-      "id": "semester-i-syllabus",
-      "title": "Semester I Syllabus and Trackers",
-      "paper": "Papers I-V",
-      "category": "Syllabus and trackers",
-      "description": "Punjabi University Semester I syllabus overview and progress trackers for all five LL.B. papers.",
-      "contentFile": "semester-i-syllabus.json",
-      "downloads": [
-        {
-          "label": "Download DOCX",
-          "filename": "LawPal_India_Semester_I_Syllabus_Trackers.docx",
           "format": "DOCX"
         }
       ]
