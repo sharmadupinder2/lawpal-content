@@ -1,0 +1,1241 @@
+{
+  "id": "law-of-torts",
+  "title": "Law of Torts, Motor Vehicle Accidents and Consumer Protection",
+  "paper": "Paper V",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "id": "law-of-torts-law-of-torts-motor-vehicle-accidents-and-consumer-protection-1",
+      "text": "Law of Torts Motor Vehicle Accidents and Consumer Protection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Punjabi University, Patiala  |  Three-year LL.B.  |  Semester I  |  Paper V"
+    },
+    {
+      "type": "paragraph",
+      "text": "Start each topic with the short revision note. Then read the statutory provisions, cases and worked illustration. Use the 3-mark questions for recall and the 11-mark answer plans to practise structuring longer responses."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-contents-2",
+      "text": "Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-unit-i-3",
+      "text": "Unit I"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Meaning Nature and Development of Tort\t2"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Tort Crime and Breach of Contract\t3"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Constituents Legal Damage and Remedies\t4"
+    },
+    {
+      "type": "paragraph",
+      "text": "4. General Defences\t5"
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Vicarious Liability of Employers and the State\t6"
+    },
+    {
+      "type": "paragraph",
+      "text": "6. Civil Defamation\t7"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-unit-ii-4",
+      "text": "Unit II"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Torts Against the Person\t8"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Negligence and Contributory Fault\t9"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Public and Private Nuisance\t10"
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Death and Survival of Tort Claims\t11"
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Strict and Absolute Liability\t12"
+    },
+    {
+      "type": "paragraph",
+      "text": "6. Compulsory Motor Insurance and Insurer Liability\t13"
+    },
+    {
+      "type": "paragraph",
+      "text": "7. Motor Accident Claims Hit and Run and No Fault\t14"
+    },
+    {
+      "type": "paragraph",
+      "text": "8. Consumer Protection Objectives and Definitions\t15"
+    },
+    {
+      "type": "paragraph",
+      "text": "9. Consumer Authority and Redressal Commissions\t16"
+    },
+    {
+      "type": "paragraph",
+      "text": "10. Consumer Complaints Product Liability and Penalties\t17"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-source-materials-5",
+      "text": "Source Materials"
+    },
+    {
+      "type": "paragraph",
+      "text": "Punjabi University Semester I syllabus (2026) and supplied Law of Tort and Motor Vehicle Act question papers. Exam questions below are practice questions in the university’s format."
+    },
+    {
+      "type": "paragraph",
+      "text": "Motor Vehicles Act 1988  |  India Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consumer Protection Act 2019  |  Repeal and savings"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consumer Commission Jurisdiction Rules 2021  |  Official Gazette"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF TORTS  /  UNIT I  /  TOPIC 1"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-meaning-nature-and-development-of-tort-6",
+      "text": "Meaning Nature and Development of Tort"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-short-revision-note-7",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "A tort is a civil wrong arising from breach of a duty recognised by law, commonly remedied by unliquidated damages. Unliquidated means the court assesses the amount. Tort also includes wrongs for which an injunction or another remedy may be appropriate."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-detailed-study-note-8",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "English tort law developed through forms of action. Trespass historically addressed direct interference, while action on the case developed remedies for some indirect injuries. Modern negligence and other doctrines grew beyond these procedural categories. Indian courts apply common-law principles suited to Indian conditions, subject to statutes and binding Indian precedent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tort duties can protect bodily integrity, property, reputation and other legally recognised interests. Many torts require proof of fault or damage, while some are actionable on infringement alone and some impose liability without proof of negligence. Modern areas include motor accident compensation and consumer remedies under legislation, alongside common-law principles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Donoghue v Stevenson [1932] AC 562 is the classic common-law illustration of a manufacturer’s duty to consumers affected by a product. M.C. Mehta v Union of India, (1987) 1 SCC 395, illustrates Indian development of absolute liability for hazardous enterprises."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A pedestrian is injured by a negligently maintained sign. Identify the duty owed, the breach and the injury before selecting damages or other relief."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-exam-practice-9",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Define tort and unliquidated damages."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain the nature, scope and development of tort law in India."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Define tort, trace development, group protected interests and explain statutory and judicial developments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Must every tort involve negligence?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. No. The elements depend on the particular tort."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF TORTS  /  UNIT I  /  TOPIC 2"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-tort-crime-and-breach-of-contract-10",
+      "text": "Tort Crime and Breach of Contract"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-short-revision-note-11",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tort generally vindicates a civil right arising independently of agreement. Contract enforces obligations voluntarily assumed. Criminal proceedings enforce public law using the criminal standard. The same conduct can raise more than one kind of liability."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-detailed-study-note-12",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Compare source of duty, who brings the claim, proof and remedy. Tort duties generally arise by operation of law and damages are assessed for the proved injury. Contract duties arise from promises and other terms recognised by contract law, and compensation commonly protects the contractual expectation subject to limits. Both civil actions ordinarily use the balance of probabilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Criminal proceedings generally involve prosecution and proof beyond reasonable doubt, subject to statutory rules. Conviction may lead to punishment. Criminal courts may also award statutory compensation. Tort proceedings ordinarily seek compensation, an injunction or other civil relief. Different parties, elements and standards can produce different outcomes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Overlapping duties. A paid repairer may promise a competent repair and also owe a tort duty to take reasonable care. Identify the facts supporting each basis and avoid double recovery for the same loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A driver injures a pedestrian through careless driving. The facts may support a civil compensation claim and a criminal prosecution, each tested by its own ingredients."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-exam-practice-13",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Give two differences between tort and crime."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Distinguish tort from crime and breach of contract with examples."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Compare duty, parties, proof and remedies, then illustrate overlap."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Does a contract automatically exclude a tort duty?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. No. Examine whether an independent duty is recognised."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF TORTS  /  UNIT I  /  TOPIC 3"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-constituents-legal-damage-and-remedies-14",
+      "text": "Constituents Legal Damage and Remedies"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-short-revision-note-15",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Identify the wrongful act or omission, the protected legal interest, causation and an available remedy. Injuria sine damno means infringement without proven loss. Damnum sine injuria means factual loss without infringement of a legal right."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-detailed-study-note-16",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wrongfulness depends on the particular duty. An omission ordinarily requires a duty to act. In negligence the claimant normally proves actionable damage and factual and legal causation. In torts actionable per se, infringement itself can support a claim without proof of consequential loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ashby v White (1703) 2 Ld Raym 938 illustrates infringement of a voting right despite the absence of consequential electoral loss. Gloucester Grammar School Case (1410) illustrates loss from lawful competition without infringement. The cases teach different uses of legal injury and factual damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ubi jus ibi remedium expresses that legal rights generally have remedies. Apply the requirements and limitations of the particular action. Damages may be compensatory or nominal as appropriate. An injunction may restrain or prevent continuing interference where its own criteria are met."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A competing shop opens lawfully and reduces another shop’s sales. The loss alone does not prove tort. If it blocks a legally protected right of access, examine that separate interference."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-exam-practice-17",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Distinguish the two Latin maxims."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain the constituents of a tort and the role of legal damage and remedy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Identify duty or right, wrongfulness, damage where required and relief, then compare the two cases."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Which maxim describes economic loss without violation of a legal right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. Damnum sine injuria."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF TORTS  /  UNIT I  /  TOPIC 4"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-general-defences-18",
+      "text": "General Defences"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-short-revision-note-19",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "The principal defences include consent, necessity, act of God, inevitable accident, private defence, statutory authority and claimant fault. State the elements and explain the effect of each."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-detailed-study-note-20",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Volenti non fit injuria requires free and informed acceptance of the legal risk. Knowledge of danger by itself may be insufficient, particularly where choice is constrained. Smith v Baker [1891] AC 325 illustrates the distinction. Necessity may justify proportionate interference to prevent a greater imminent harm. Private defence permits reasonably necessary force in protecting person or property, within applicable limits."
+    },
+    {
+      "type": "paragraph",
+      "text": "An act of God involves extraordinary natural causes that reasonable care could not anticipate or guard against. Inevitable accident is wider and may involve causes beyond reasonable prevention even where human activity is involved. Nichols v Marsland (1876) 2 Ex D 1 illustrates extraordinary natural forces. An accident is not inevitable merely because its precise manner was unexpected."
+    },
+    {
+      "type": "paragraph",
+      "text": "Statutory authority can protect consequences necessarily incidental to authorised activity, depending on statutory construction. It generally does not excuse avoidable negligence. Claimant fault requires causal contribution and may reduce damages. An unlawful act by the claimant is not by itself a complete answer to every claim."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A passenger knows a driver has occasionally sped. Ask whether the passenger freely accepted the particular legal risk or whether the facts merely show awareness."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-exam-practice-21",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Distinguish act of God and inevitable accident."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain the general defences in tort with illustrations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Group consent, emergency and justification defences, then explain accident, statutory authority and contributory fault."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Does knowledge of a risk alone establish volenti?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. No. Free acceptance of that risk must be examined."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF TORTS  /  UNIT I  /  TOPIC 5"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-vicarious-liability-of-employers-and-the-state-22",
+      "text": "Vicarious Liability of Employers and the State"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-short-revision-note-23",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vicarious liability makes one person answerable for another’s tort on a legally recognised relationship and connection to the assigned work. Separate the employee’s underlying tort, the relationship and the course of employment."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-detailed-study-note-24",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "An employer may be liable for a tort committed in the course of employment, including an unauthorised way of doing authorised work. A purely personal venture may fall outside. For borderline intentional misconduct, analyse its connection with assigned functions and the governing case law. Independent contractors generally stand differently, subject to exceptions such as non-delegable duties or the employer’s own negligence."
+    },
+    {
+      "type": "paragraph",
+      "text": "In State Bank of India v Shyama Devi, (1978) 3 SCC 399, the Supreme Court distinguished a bank employee’s personal dealings from work done in the course of employment. State liability under Article 300 raises its own issues. State of Rajasthan v Vidyawati, AIR 1962 SC 933, held the State liable for negligent driving of a government vehicle on the facts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kasturi Lal v State of U.P., AIR 1965 SC 1039, applied sovereign immunity in its setting. N. Nagendra Rao & Co v State of A.P., (1994) 6 SCC 205, confined immunity narrowly. Nilabati Behera v State of Orissa, (1993) 2 SCC 746, distinguishes public-law compensation for fundamental-rights violations from ordinary private-law damages."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A delivery driver carelessly injures someone while making an assigned delivery by an unauthorised route. Analyse the connection to the work before concluding whether the employer is liable."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-exam-practice-25",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Define course of employment."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Discuss employer and State liability for torts committed by employees."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Establish the relationship and connection, explain personal ventures and distinguish private-law State liability from public-law compensation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Is an unauthorised method necessarily outside employment?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. No. It can still be a manner of doing assigned work."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF TORTS  /  UNIT I  /  TOPIC 6"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-civil-defamation-26",
+      "text": "Civil Defamation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-short-revision-note-27",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Defamation protects reputation. Prove defamatory meaning, reference to the claimant and publication to at least one third person. Libel generally concerns permanent form and slander transient form. Analyse applicable Indian principles before importing English rules about special damage."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-detailed-study-note-28",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "The test asks how an ordinary reasonable recipient would understand the communication in context. Meaning can be express or arise through implication or facts known to recipients. The claimant need not be named if reasonably identifiable. Speaking only to the claimant ordinarily lacks third-party publication."
+    },
+    {
+      "type": "paragraph",
+      "text": "Defences include substantial truth, honest opinion on a matter of public interest supported by proper facts, and privilege. Absolute privilege applies on recognised occasions. Qualified privilege can apply where a duty or interest to communicate corresponds to the recipient’s interest, subject to defeat by malice. Distinguish factual allegations from value judgments and assess the occasion and evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "R. Rajagopal v State of Tamil Nadu, (1994) 6 SCC 632, is relevant to publication, privacy and statements concerning public officials in the setting addressed by the Court. Civil defamation and criminal defamation have different ingredients and defences. Civil remedies may include damages or a suitably justified injunction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A manager sends a false theft allegation in a staff group. The group can identify the employee. Analyse defamatory meaning, publication and whether any claimed privilege applies."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-exam-practice-29",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Distinguish libel and slander."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain the constituents and defences of civil defamation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. State the three elements, distinguish forms, and explain truth, honest opinion and privilege."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Is a private insult communicated only to the claimant ordinarily published?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. No. Publication ordinarily requires communication to a third person."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-unit-i-revision-checklist-30",
+      "text": "Unit I Revision Checklist"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recall. Nature of tort • Civil and criminal distinctions • Legal damage and remedies • Defences • Vicarious liability • Defamation."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF TORTS  /  UNIT II  /  TOPIC 1"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-torts-against-the-person-31",
+      "text": "Torts Against the Person"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-short-revision-note-32",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Assault concerns apprehension of imminent unlawful contact. Battery concerns intentional direct unlawful contact. False imprisonment is total restraint without lawful justification. Malicious prosecution requires misuse of proceedings and more than mere acquittal."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-detailed-study-note-33",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Assault protects against apprehension of imminent contact. Apparent ability, context and words matter. Battery protects bodily integrity against unlawful direct contact, subject to consent and other legal justification. An attempted blow may constitute assault without battery, and unexpected unlawful contact may amount to battery without prior apprehension."
+    },
+    {
+      "type": "paragraph",
+      "text": "False imprisonment requires complete restraint within a bounded area, even if brief. A reasonable available means of escape can defeat total restraint. The restraint may be imposed through barriers or assertion of authority. Bird v Jones (1845) 7 QB 742 illustrates partial obstruction. Rudul Sah v State of Bihar, (1983) 4 SCC 141, illustrates public-law compensation for unlawful detention in a distinct constitutional setting."
+    },
+    {
+      "type": "paragraph",
+      "text": "For malicious prosecution, show the defendant instituted or was actively instrumental in the proceedings, proceedings ended in the claimant’s favour, absence of reasonable and probable cause, malice and damage. Malice refers to an improper purpose. Acquittal establishes only the favourable ending where applicable and does not establish all other elements."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A shop locks a customer in a room without lawful justification. Analyse total restraint and authority. If the shop also sets criminal proceedings in motion, examine malicious prosecution separately."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-exam-practice-34",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Distinguish assault and battery."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain false imprisonment and malicious prosecution, with their ingredients."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Define each, explain restraint and justification, then apply the distinct requirements for prosecution."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Does an acquittal alone establish malicious prosecution?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. No. Other elements include lack of reasonable cause, malice and damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF TORTS  /  UNIT II  /  TOPIC 2"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-negligence-and-contributory-fault-35",
+      "text": "Negligence and Contributory Fault"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-short-revision-note-36",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Negligence requires duty, breach, causation and actionable damage. Res ipsa loquitur allows an evidential inference where the circumstances ordinarily indicate negligence. Contributory negligence concerns the claimant’s own causally relevant lack of care."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-detailed-study-note-37",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duty asks whether the defendant owed the claimant reasonable care in the circumstances. Breach compares conduct against the applicable standard. Causation asks whether breach contributed to the injury and whether that kind of loss is legally too remote. Donoghue v Stevenson [1932] AC 562 supplies a classic duty illustration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Res ipsa loquitur is an evidential principle. Relevant considerations include the nature of the event, the defendant’s management or control, and whether other causes or explanations appear. Municipal Corporation of Delhi v Subhagwanti, AIR 1966 SC 1750, applied the inference in a clock-tower collapse. The defendant may offer evidence rebutting the inference."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contributory negligence may reduce the claimant’s recovery in proportion to fault. Composite negligence arises when multiple wrongdoers cause injury without relevant claimant fault. Khenyei v New India Assurance Co, (2015) 9 SCC 273, explains that liability to an injured claimant is joint and several in composite negligence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. Two drivers negligently collide and injure a passenger who did nothing to contribute. Analyse composite negligence. A pedestrian who contributed to their own injury raises a different question."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-exam-practice-38",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Explain res ipsa loquitur."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain negligence and distinguish contributory and composite negligence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Use duty, breach, causation and damage, explain the evidential inference and compare claimant fault with multiple defendants."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Which kind of negligence involves the claimant’s own causal fault?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. Contributory negligence."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF TORTS  /  UNIT II  /  TOPIC 3"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-public-and-private-nuisance-39",
+      "text": "Public and Private Nuisance"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-short-revision-note-40",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Private nuisance is substantial and unreasonable interference with the use or enjoyment of land or with an interest connected to it. Public nuisance affects a public right or a class of the public. Identify standing, harm, causation and remedy."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-detailed-study-note-41",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "For private nuisance, consider locality, duration, frequency, intensity, sensitivity and the nature of harm. A use appropriate in one locality may be excessive elsewhere. Physical damage and interference with comfort raise different factual considerations. The claimant ordinarily needs an appropriate interest in the affected land. Sturges v Bridgman (1879) 11 Ch D 852 illustrates the importance of locality and that coming to the nuisance is not itself a defence."
+    },
+    {
+      "type": "paragraph",
+      "text": "A private claim for public nuisance ordinarily requires special damage. Section 91 CPC permits a suit by the Advocate-General or by two or more persons with leave in specified circumstances even without special damage. Municipal Council, Ratlam v Vardichan, (1980) 4 SCC 162, illustrates statutory abatement of public nuisance in its procedural setting."
+    },
+    {
+      "type": "paragraph",
+      "text": "Defences may include statutory authority and prescription where applicable. Reasonable local use is a factor in deciding nuisance. Remedies include damages and injunction, subject to their requirements."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A workshop’s overnight noise repeatedly interferes with neighbouring homes. Consider frequency and locality, and ask which claimants have standing and what relief fits."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-exam-practice-42",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Distinguish public and private nuisance."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Discuss the elements, defences and remedies for nuisance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Compare protected interests and standing, explain unreasonableness, then address defences and relief."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Is moving into the area after the nuisance began by itself a defence?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. No."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF TORTS  /  UNIT II  /  TOPIC 4"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-death-and-survival-of-tort-claims-43",
+      "text": "Death and Survival of Tort Claims"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-short-revision-note-44",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Distinguish survival of a deceased person’s existing cause of action from an independent claim for losses caused by death. The Latin maxim describes the historical extinction of some personal claims. Modern Indian statutes govern its application."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-detailed-study-note-45",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 306 of the Indian Succession Act, 1925 generally preserves demands and rights to prosecute or defend proceedings for executors or administrators, with exceptions including defamation, assault as defined in the provision’s historical reference, other personal injuries not causing death, and cases where relief would be nugatory. Apply the precise statutory language and any special law."
+    },
+    {
+      "type": "paragraph",
+      "text": "Baker v Bolton (1808) 1 Camp 493 expressed the historical English common-law rule against treating death itself as an actionable civil injury. The Fatal Accidents Act, 1855 creates a statutory claim for prescribed beneficiaries where the deceased could have maintained an action had death not ensued. Distinguish dependency loss from any claim for estate loss and avoid duplicate recovery."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Motor Vehicles Act has its own regime. Section 166 permits qualifying legal representatives to claim in case of death. Assess statutory standing and compensable heads under the applicable route. National Insurance Co v Pranay Sethi, (2017) 16 SCC 680, is a leading motor accident compensation authority on future prospects and conventional heads."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A negligent act causes fatal injury. Identify the dependants’ statutory claim and ask separately whether the estate has a surviving claim and whether claimed heads overlap."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-exam-practice-46",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Explain actio personalis moritur cum persona."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain Baker v Bolton and the statutory qualifications in India."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Separate death as a cause of action from survival, then discuss section 306, the Fatal Accidents Act and motor accident claims."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Is a dependant’s claim simply the deceased’s personal claim continued?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. A statutory dependency claim has its own basis."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF TORTS  /  UNIT II  /  TOPIC 5"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-strict-and-absolute-liability-47",
+      "text": "Strict and Absolute Liability"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-short-revision-note-48",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rylands v Fletcher imposes strict liability for escape of a dangerous accumulation connected with exceptional use of land, subject to recognised limits and defences. Indian absolute liability in M.C. Mehta applies to enterprises engaged in hazardous or inherently dangerous activity without the Rylands exceptions."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-detailed-study-note-49",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Rylands v Fletcher (1868) LR 3 HL 330, accumulated reservoir water escaped through old mine workings and flooded adjoining workings. The classic elements are accumulation, exceptional or non-natural use, escape and damage of the relevant kind. Discuss recognised defences such as act of God, act of a stranger, claimant default, consent or statutory authority as applicable."
+    },
+    {
+      "type": "paragraph",
+      "text": "In M.C. Mehta v Union of India, (1987) 1 SCC 395, following the Oleum gas leak, the Supreme Court formulated an absolute and non-delegable duty owed by hazardous enterprises to the community. Harm resulting from operation of that activity attracts liability without the Rylands exceptions. The Court linked deterrent compensation to the enterprise’s magnitude and capacity."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compare scope, conditions and defences. Do not treat every ordinary activity as hazardous enterprise activity. Distinguish both doctrines from negligence, which asks whether reasonable care was breached, and from statutory fixed-sum no-fault schemes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. Toxic gas leaks from a hazardous industrial plant. Identify the hazardous enterprise, harm and causal connection before applying M.C. Mehta."
+    },
+    {
+      "type": "paragraph",
+      "text": "M.C. Mehta  |  Oleum gas leak judgment"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-exam-practice-50",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. State two differences between strict and absolute liability."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain Rylands and M.C. Mehta and compare their requirements and defences."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. State case facts, set out both rules, compare their scope and apply a short problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Can a hazardous enterprise rely on the Rylands exceptions under the M.C. Mehta rule?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. No."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF TORTS  /  UNIT II  /  TOPIC 6"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-compulsory-motor-insurance-and-insurer-liability-51",
+      "text": "Compulsory Motor Insurance and Insurer Liability"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-short-revision-note-52",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chapter XI of the Motor Vehicles Act, 1988 concerns third-party insurance. Read sections 146–147 for compulsory coverage, section 149 for settlement procedure under the amended scheme and section 150 for the insurer’s duty to satisfy specified awards and statutory defences."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-detailed-study-note-53",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 145 provides definitions, and section 146 generally requires a qualifying policy for use in a public place, subject to statutory exceptions. Section 147 prescribes policy requirements and the scope of third-party risk. Check vehicle class, passenger or employee status, policy terms and any specific statutory coverage. A statutory third-party policy and a wider contractual policy may differ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under current numbering section 149 concerns settlement by the insurer. Section 150 addresses satisfaction of awards and the recognised defences. Older judgments discussing statutory defences under former section 149 must be read with the numbering applicable to the accident. National Insurance Co v Swaran Singh, (2004) 3 SCC 297, discusses licence-related breach and pay-and-recover in appropriate cases. National Insurance Co v Baljit Kaur, (2004) 2 SCC 1, illustrates the passenger-status issue in a goods vehicle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sections 151–159 address matters including affected third-party rights, information and procedures. Section 159 requires an accident information report within the statutory framework. Section 160 concerns furnishing vehicle particulars to entitled applicants. In a bus-roof passenger problem, examine passenger status, the permit or policy condition relied on, proof of breach and the distinction between claimant compensation and ultimate recovery."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A bus passenger suffers injury and the insurer alleges a permit breach. Identify statutory coverage, evaluate the particular defence and evidence, then address whether pay-and-recover is legally available on the facts."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-exam-practice-54",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Why is third-party insurance compulsory?"
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Discuss compulsory insurance and the insurer’s duty and defences under Chapter XI."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Explain sections 146 and 147, distinguish sections 149 and 150, and apply Swaran Singh to a policy-breach problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Which amended section concerns the duty to satisfy specified third-party awards?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. Section 150."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF TORTS  /  UNIT II  /  TOPIC 7"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-motor-accident-claims-hit-and-run-and-no-fault-55",
+      "text": "Motor Accident Claims Hit and Run and No Fault"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-short-revision-note-56",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Distinguish unidentified-vehicle hit-and-run compensation under section 161, fixed no-fault compensation under section 164 and ordinary tribunal claims under section 166. Section 164B creates the Motor Vehicle Accident Fund."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-detailed-study-note-57",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 161 and the Compensation to Victims of Hit and Run Motor Accidents Scheme, 2022 provide for unidentified-vehicle cases despite reasonable efforts to ascertain identity. The amounts under that framework are ₹2 lakh for death and ₹50,000 for grievous hurt, subject to any applicable higher prescription. Section 163 concerns refund or adjustment of hit-and-run compensation in the statutory situation where other compensation is subsequently awarded. Current section 163 is distinct from former section 163A on structured-formula claims."
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 164 specifies ₹5 lakh for death and ₹2.5 lakh for grievous hurt arising out of use of a motor vehicle. The claimant need not plead or establish wrongful act, neglect or default. Check the statutory rules on reduction or lapse where compensation has been paid or accepted under another relevant route. Section 164B provides a fund for purposes including hit-and-run payments and funding applicable treatment under the statutory framework."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sections 165–176 deal with Claims Tribunals. Section 166 identifies applicants, including injured persons and legal representatives in death cases, and provides for the application and territorial connections. The accident report may be treated as an application. Section 168 addresses just compensation and who pays, section 169 procedure and powers, section 171 interest, and section 173 appeals. For limitation, identify the accident date and applicable version of section 166(3), and check binding orders. In ICICI Lombard General Insurance Co v Ayiti Navaneetha (interim order, 4 November 2025), the Supreme Court directed Tribunals and High Courts against dismissal solely under section 166(3) during pendency of the petitions. This was an interim direction. Sarla Verma v DTC, (2009) 6 SCC 121, and Pranay Sethi, (2017) 16 SCC 680, guide multiplier and future-prospects analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. An unidentified vehicle causes fatal injury and cannot be traced despite reasonable efforts. Start with section 161. If the liable vehicle is identified, reconsider the available claim route and statutory adjustment."
+    },
+    {
+      "type": "paragraph",
+      "text": "ICICI Lombard v Ayiti Navaneetha  |  Interim order of 4 November 2025"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-exam-practice-58",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. State the amounts specified in section 164."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Compare the hit-and-run, no-fault and ordinary Claims Tribunal routes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Compare trigger, fault, amounts and procedure, then explain the fund, adjustment and ordinary award principles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Is section 164B itself the provision fixing the ₹5 lakh death amount?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. Section 164 fixes that amount. Section 164B establishes the fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF TORTS  /  UNIT II  /  TOPIC 8"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-consumer-protection-objectives-and-definitions-59",
+      "text": "Consumer Protection Objectives and Definitions"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-short-revision-note-60",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Consumer Protection Act, 2019 protects consumers and provides redress for grievances. The syllabus and past papers also name the 1986 Act, which was repealed subject to savings under section 107 of the 2019 Act. Use the enactment named in the question."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-detailed-study-note-61",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 2 of the 2019 Act defines complainant in clause (5), complaint in clause (6), consumer in clause (7), and service in clause (42). A consumer generally buys goods or hires or avails services for consideration, including an approved user or beneficiary where the definition admits them. The Act includes offline and online transactions. Resale and commercial purpose exclusions require attention to the facts and the statutory livelihood-by-self-employment qualification."
+    },
+    {
+      "type": "paragraph",
+      "text": "A complainant may include the consumer, a recognised consumer association, government, the Central Authority, qualifying consumers sharing an interest, or the statutory representative in appropriate cases. Complaint grounds include unfair or restrictive practices, unfair contracts, defects, deficiencies, excess price, hazardous goods or services, and product liability, as specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "Service covers numerous paid facilities, including insurance, banking and housing construction within the statutory wording. It excludes free service and service under a contract of personal service. Lucknow Development Authority v M.K. Gupta, (1994) 1 SCC 243, illustrates housing-related service and compensation under the earlier Act. In the 1986 Act, use the distinct definitions in section 2(1)(b), (c), (d) and (o)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A person buys a sewing machine to earn a livelihood through personal work. Assess the commercial-purpose exclusion and the self-employment qualification on the facts."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-exam-practice-62",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Define consumer under the 2019 Act."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain the objectives and principal definitions of consumer protection legislation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Identify the Act, define consumer and service, then distinguish the complainant from the contents of a complaint."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Can an online purchase fall within the 2019 Act?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. Yes, where the other statutory requirements are met."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF TORTS  /  UNIT II  /  TOPIC 9"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-consumer-authority-and-redressal-commissions-63",
+      "text": "Consumer Authority and Redressal Commissions"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-short-revision-note-64",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Central Consumer Protection Authority (CCPA) addresses consumer rights as a class, unfair trade practices and misleading advertisements. District, State and National Commissions adjudicate consumer disputes. Identify the institution by the relief sought."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-detailed-study-note-65",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under sections 10–27 of the 2019 Act, the CCPA can inquire or cause investigation into specified violations. Sections 20–21 authorise orders such as recalls, reimbursement and discontinuance of unfair practices, as well as action against misleading advertisements. The Authority and consumer commissions perform distinct functions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The 2019 Act provides three levels. District Commissions are established under section 28 and comprise a President and at least two members under its framework. State Commissions under section 42 have a President and at least four members, and National Commission composition under section 54 includes a President and at least four members, subject to the statutory and rule framework. Sections 34, 47 and 58 address jurisdiction. Under the 2021 Jurisdiction Rules, ordinary complaint thresholds are up to ₹50 lakh at District level, above ₹50 lakh and up to ₹2 crore at State level, and above ₹2 crore at National level, measured by consideration paid. Remember the Act’s separate provisions for complaints against unfair contracts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jurisdiction also depends on territory and the type of proceeding. Check appellate and revisional powers separately. For a question specifically under the 1986 Act, use the District Forum, State Commission and National Commission and the thresholds applicable to that regime. Under its later amended version the ordinary thresholds were ₹20 lakh and ₹1 crore, based on the value of goods or services and compensation claimed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A consumer pays ₹45 lakh for a covered service and claims larger compensation. For an ordinary complaint under the 2021 Rules, start with consideration paid, then verify territory and whether a special jurisdictional provision applies."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-exam-practice-66",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Distinguish the CCPA from a Consumer Commission."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain composition and jurisdiction of the three redressal levels and the role of the CCPA."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Explain regulator versus adjudicator, cite establishment and jurisdiction sections, and apply the consideration-paid thresholds."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Does the ordinary 2021 pecuniary test use compensation demanded?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. It uses the value paid as consideration."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF TORTS  /  UNIT II  /  TOPIC 10"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-torts-consumer-complaints-product-liability-and-penalties-67",
+      "text": "Consumer Complaints Product Liability and Penalties"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-short-revision-note-68",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "For current complaint procedure, read sections 35–39 and 69 of the 2019 Act. Product liability is in sections 82–87. For a past-paper question on the 1986 Act, use sections 12–14 and 24A and the applicable savings."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-detailed-study-note-69",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "A 2019 complaint can be filed in the competent commission, including by electronic means as prescribed. Determine standing and territorial and pecuniary jurisdiction. Sections 36–38 deal with admission, possible mediation reference and procedure, including notice, reply, testing where needed and decision on evidence. Section 39 remedies include repair, replacement, refund, compensation and directions against unsafe goods or unfair practices as applicable. Section 69 prescribes two years from accrual of cause of action, with delayed admission for sufficient cause recorded in writing."
+    },
+    {
+      "type": "paragraph",
+      "text": "For a 1986 Act answer, section 12 governs how and by whom to file, section 13 governs notice, reply, testing and adjudication, section 14 sets out orders, and section 24A lays down the two-year limitation and the reasoned condonation rule. Section 107 of the 2019 Act governs repeal and savings. Neena Aneja v Jai Prakash Associates, (2022) 2 SCC 161, addresses the continued hearing of complaints instituted under the earlier regime."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under sections 82–87 of the 2019 Act, identify actionable harm and the correct defendant. Compare manufacturer liability under section 84, service provider liability under section 85, and the specified bases of seller liability under section 86. Section 87 provides exceptions. Section 72 deals with non-compliance with commission orders. Separately, sections 88–93 address specified offences, including non-compliance with Central Authority directions and certain misleading advertisements, adulterated products and spurious goods."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A defective pressure cooker injures a buyer. Identify the alleged defect and harm, select the proper defendant and commission, and assess causation and statutory exceptions."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-exam-practice-70",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. What is the ordinary period of limitation for a consumer complaint under the 2019 Act?"
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain filing, procedure and remedies for consumer complaints and outline product liability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Choose the applicable enactment, trace procedure and limitation, then identify liability by defendant and distinguish separate offences."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Can a product seller be liable merely because every seller is treated as the manufacturer?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. Apply the specific grounds in section 86."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-torts-unit-ii-revision-checklist-71",
+      "text": "Unit II Revision Checklist"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recall. Personal torts • Negligence and nuisance • Death and survival • Strict and absolute liability • Motor accident claim routes • Consumer authorities and remedies."
+    }
+  ]
+}

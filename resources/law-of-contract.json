@@ -1,0 +1,1585 @@
+{
+  "id": "law-of-contract",
+  "title": "Law of Contract",
+  "paper": "Paper III",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "id": "law-of-contract-law-of-contract-study-notes-1",
+      "text": "Law of Contract Study Notes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Punjabi University, Patiala  |  Three-year LL.B.  |  Semester I  |  Paper III"
+    },
+    {
+      "type": "paragraph",
+      "text": "Start each topic with the short revision note. Then read the Article references, cases and worked illustration. Use the 3-mark questions for recall and the 11-mark answer plans to practise structuring longer responses."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-contents-2",
+      "text": "Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-unit-i-3",
+      "text": "Unit I"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Agreements and Contracts\t2"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Proposal Acceptance and Communication\t3"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Consideration and Privity\t4"
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Capacity to Contract\t5"
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Consent and Free Consent\t6"
+    },
+    {
+      "type": "paragraph",
+      "text": "6. Coercion and Duress\t7"
+    },
+    {
+      "type": "paragraph",
+      "text": "7. Undue Influence\t8"
+    },
+    {
+      "type": "paragraph",
+      "text": "8. Misrepresentation\t9"
+    },
+    {
+      "type": "paragraph",
+      "text": "9. Fraud\t10"
+    },
+    {
+      "type": "paragraph",
+      "text": "10. Mistake\t11"
+    },
+    {
+      "type": "paragraph",
+      "text": "11. Legality of Object and Consideration\t12"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-unit-ii-4",
+      "text": "Unit II"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Void Voidable and Unlawful Agreements\t13"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Restraints on Marriage Trade and Legal Proceedings\t14"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Wagering and Contingent Contracts\t15"
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Discharge by Performance\t16"
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Discharge by Breach\t17"
+    },
+    {
+      "type": "paragraph",
+      "text": "6. Impossibility and Frustration\t18"
+    },
+    {
+      "type": "paragraph",
+      "text": "7. Discharge by Agreement\t19"
+    },
+    {
+      "type": "paragraph",
+      "text": "8. Quasi Contractual Obligations\t20"
+    },
+    {
+      "type": "paragraph",
+      "text": "9. Remedies for Breach of Contract\t21"
+    },
+    {
+      "type": "paragraph",
+      "text": "10. Standard Form Contracts\t22"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-source-materials-5",
+      "text": "Source Materials"
+    },
+    {
+      "type": "paragraph",
+      "text": "Punjabi University Semester I syllabus (2026) and supplied Law of Contract question papers. Exam questions below are practice questions in the university’s format."
+    },
+    {
+      "type": "paragraph",
+      "text": "Indian Contract Act 1872  |  India Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT I  /  TOPIC 1"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-agreements-and-contracts-6",
+      "text": "Agreements and Contracts"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-7",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "A proposal becomes a promise when accepted. Promises forming consideration for each other make an agreement. An agreement enforceable by law is a contract. Start with section 2 and test enforceability under section 10."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-8",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 2(a)–(h) supplies the vocabulary. A proposal seeks another’s assent to an act or abstinence. Acceptance turns it into a promise. Section 2(e) describes an agreement as every promise and every set of promises forming consideration for each other. Section 2(h) adds enforceability to define a contract."
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 10 requires competent parties, free consent, lawful consideration and object, and an agreement the Act does not expressly declare void. Also check certainty under section 29 and any applicable form, witnessing or registration requirement preserved by section 10. An oral agreement can be enforceable where the law permits that form and sufficient evidence establishes the terms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Intention to create legal relations is a familiar way to distinguish legally intended undertakings from ordinary social arrangements. In the English illustration Balfour v Balfour [1919] 2 KB 571, the circumstances of a domestic maintenance promise did not disclose the requisite legal intention. In an Indian problem, work from the statutory requirements and objective facts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A neighbour promises to visit for tea. A shop separately agrees to deliver a refrigerator at a fixed price. The commercial undertaking presents agreed obligations and consideration. Test the other elements before concluding that a contract exists."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-9",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Define agreement and contract."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain why every contract is an agreement and only enforceable agreements become contracts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Trace proposal to promise, define agreement and contract, apply section 10 and add two examples."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. What section defines a contract?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. Section 2(h)."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT I  /  TOPIC 2"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-proposal-acceptance-and-communication-10",
+      "text": "Proposal Acceptance and Communication"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-11",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sections 2(a)–(b) and 3–9 govern formation. A proposal invites assent. An invitation to offer invites another person to make the proposal. Acceptance must be absolute and unqualified. Always identify what was communicated and when."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-12",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Offers can be specific or general, express or implied. An advertisement or goods display usually invites offers, though a clear reward promise can be a general offer. A person who performs its conditions with knowledge of it may accept by conduct under section 8. In Lalman Shukla v Gauri Dutt (1913) 11 ALJ 489, performance without knowledge of a reward did not constitute acceptance. Identical cross-offers do not accept each other. A counter-offer changes terms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under section 4, a proposal is communicated when it comes to the offeree’s knowledge. For properly posted acceptance where post is contemplated, communication is complete against the proposer on dispatch beyond the acceptor’s control, and against the acceptor on receipt by the proposer. Sections 5–6 deal with revocation and its timing, including lapse, failure of a condition and death or insanity known before acceptance. Revocation is complete against its recipient when it comes to that person’s knowledge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 7 requires absolute acceptance in the prescribed or usual and reasonable manner. A proposer may insist on the prescribed mode within a reasonable time. In Bhagwandas Goverdhandas Kedia v Girdharilal Parshottamdas, AIR 1966 SC 543, the majority treated telephone acceptance as effective where received. For electronic contracts, also consider the Information Technology Act, 2000, sections 10A and 13."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A offers to sell a bike for ₹20,000. B replies, “I will buy it for ₹18,000.” B has made a counter-offer. Check A’s response before finding agreement."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-13",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Distinguish an offer from an invitation to offer."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain valid proposal, acceptance, communication and revocation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Define both, distinguish invitations and counter-offers, set out the statutory timeline and compare post and telephone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. When does communication of a proposal complete?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. When it comes to the offeree’s knowledge."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT I  /  TOPIC 3"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-consideration-and-privity-14",
+      "text": "Consideration and Privity"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-15",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consideration under section 2(d) is an act, abstinence or promise at the promisor’s desire. It may move from the promisee or another person. Privity asks who is entitled to sue on the contract. Keep these questions separate."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-16",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Past, present and future consideration. A prior act may count if done at the promisor’s desire. Present consideration accompanies the promise, while executory consideration consists of promises of later performance. Consideration must be real and lawful. Under section 25, Explanation 2, inadequacy alone does not invalidate a freely made agreement but may be relevant to free consent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Existing duties. Performing exactly what one already owes the same promisor generally supplies no fresh bargain. An additional undertaking can supply new consideration. Identify whether the earlier duty was owed to the same party and whether section 63 remission independently resolves the issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Privity. Chinnaya v Ramaya (1882) ILR 4 Mad 137 illustrates that consideration may move from a third person. M.C. Chacko v State Bank of Travancore, (1969) 2 SCC 343, illustrates the general rule that a stranger to the contract cannot enforce its terms merely because the contract benefits them. Recognised routes include a beneficiary enforcing a trust or qualifying family arrangement, legal assignment, and a principal enforcing a contract made by an authorised agent. Explain the legal basis for each."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A transfers property to B, who promises C an annuity. If C is party to the promise, the fact that the consideration came from A need not bar C’s claim. If C is a stranger to the promise, identify a separate recognised route to enforcement."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-17",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Can consideration move from a person other than the promisee?"
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain consideration and discuss the rule of privity and its exceptions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Define section 2(d), explain kinds and adequacy, distinguish privity, then support the distinction with cases."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Does inadequacy by itself invalidate a freely made contract?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. No. It may be evidence bearing on free consent."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT I  /  TOPIC 4"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-capacity-to-contract-18",
+      "text": "Capacity to Contract"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-19",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sections 11–12 require majority, soundness of mind at contracting and freedom from legal disqualification. A minor’s own agreement imposing contractual liability is void from inception. Section 68 permits reimbursement for suitable necessaries from the incapable person’s property."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-20",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Majority is ordinarily attained at 18 under the Majority Act, 1875. Section 12 asks whether the person could understand the transaction and form a rational judgment about its effect on their interests at the relevant time. A person usually of unsound mind may contract in a lucid interval. A usually sound person may lack capacity during a temporary impairment. Check any status-related bar under the governing law."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Mohori Bibee v Dharmodas Ghose (1903) LR 30 IA 114 (PC), a minor’s mortgage was held void. The minor cannot simply ratify that void agreement after majority. A fresh valid contract must satisfy formation requirements. A minor may receive a benefit, and an authorised guardian’s transaction within legal power and for the minor’s benefit raises distinct questions. A false representation of age does not itself create contractual capacity."
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 68 concerns necessaries suited to the person’s condition in life and actual requirements, supplied to them or someone they are legally bound to support. Recovery is against property, without personal contractual liability. Restitution under section 33 of the Specific Relief Act, 1963 has its own qualifications and does not enforce a void bargain."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A shop supplies basic schoolbooks to a minor who needs them. Assess their suitability and actual need, then consider reimbursement from the minor’s property."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-21",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Explain liability for necessaries supplied to a minor."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Discuss a minor’s contractual position with reference to Mohori Bibee."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Start with sections 11–12, explain voidness, benefits, ratification and necessaries, then apply the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Who bears personal contractual liability for a minor’s necessaries under section 68?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. Section 68 provides reimbursement from property."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT I  /  TOPIC 5"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-consent-and-free-consent-22",
+      "text": "Consent and Free Consent"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-23",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consent under section 13 means agreement upon the same thing in the same sense. Under section 14 it is free when it is not caused by coercion, undue influence, fraud, misrepresentation or mistake within the statutory rules."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-24",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "An answer should first ask whether there was consent at all. If the parties attach fundamentally different meanings to the subject matter, the facts may show a lack of agreement. If they agreed on the same terms, test whether their assent was caused by a vitiating factor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sections 15–18 define coercion, undue influence, fraud and misrepresentation. Section 19 ordinarily makes an agreement caused by coercion, fraud or misrepresentation voidable at the affected party’s option. Section 19A permits courts to set aside an agreement induced by undue influence, with terms where appropriate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mistake has separate effects. Under section 20 both parties’ mistake about a fact essential to the agreement makes it void. Sections 21–22 address mistakes of law and unilateral fact mistakes. Establish the causal link required by section 14, then state the precise consequence of the defect."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A agrees to buy a named painting after the seller falsely describes its provenance. The parties identify the same painting. The problem is whether fraud or misrepresentation caused consent."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-25",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Distinguish consent and free consent."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain the factors vitiating free consent and their legal effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Define sections 13 and 14, identify each defect, then distinguish voidness from voidability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Which section provides relief for undue influence?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. Section 19A."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT I  /  TOPIC 6"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-coercion-and-duress-26",
+      "text": "Coercion and Duress"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-27",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 15 covers committing or threatening an act forbidden by the penal law referred to in the provision, or unlawfully detaining or threatening to detain property, with intent to cause someone to enter an agreement."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-28",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "A threat may prejudice any person, including someone other than the contracting party. Identify the threatened act or property detention, the intention and the causal link to the agreement. The statutory explanation addresses acts occurring where the penal code referred to in the section was not in force. Read the historical IPC references with the current penal framework when applying a specific offence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under section 19, the affected party may avoid an agreement caused by coercion. Section 72 separately requires repayment or return of money or a thing delivered under coercion in its terms. In Ranganayakamma v Alwar Setti (1889) ILR 13 Mad 214, pressure involving refusal to allow removal of a husband’s body induced a widow’s consent to adoption. It is a classic illustration of compulsion."
+    },
+    {
+      "type": "paragraph",
+      "text": "English duress is a common-law concept that includes, in suitable cases, illegitimate economic pressure. Indian exam questions should establish the statutory ingredients of section 15 and explain undue influence separately under section 16."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A warehouse operator unlawfully withholds B’s goods until B signs a new bargain. Identify property detention, intention to procure the agreement and whether the detention caused assent."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-29",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. State two ways coercion can arise under section 15."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Define coercion, distinguish it from duress and explain its effect."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. State ingredients, cover property and prejudice to any person, compare duress and apply section 19."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Can unlawful detention of property amount to coercion?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. Yes, where the statutory intent and causal link are established."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT I  /  TOPIC 7"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-undue-influence-30",
+      "text": "Undue Influence"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-31",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under section 16, undue influence requires a position to dominate another’s will and use of that position to obtain an unfair advantage. Where dominance and an apparently unconscionable bargain are shown, section 16(3) shifts the burden."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-32",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dominance may arise from real or apparent authority, a fiduciary relation, or impaired mental capacity due to age, illness or distress. The inquiry is transaction-specific. A family or professional relationship can be relevant, and evidence must establish the necessary conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Subhas Chandra Das Mushib v Ganga Prosad Das Mushib, AIR 1967 SC 878, the Supreme Court stressed the proper sequence of inquiry: ability to dominate, use of dominance, and burden-shifting where the transaction appears unconscionable. Independent advice and evidence of informed choice can rebut an inference. Special equitable protection in transactions involving a pardanashin woman focuses on proof that the deed was understood and freely executed. See Mst. Kharbuja Kuer v Jangbahadur Rai, AIR 1963 SC 1203."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under section 19A a court may set aside the agreement absolutely or, where the affected party received a benefit, on just terms. Unfair terms are evidence to assess in context. Coercion focuses on a threat or unlawful property pressure under section 15."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A dependent patient transfers property to a caregiver at a gross undervalue. Identify dominance and alleged use, then ask whether the facts trigger the shifted burden."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-33",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. When does the burden shift under section 16(3)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain undue influence, with the burden of proof and remedies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Define dominance and unfair advantage, explain protected relationships, use the leading case and conclude with section 19A."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Does a family relationship alone prove undue influence?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. The required dominance and use must be shown on the facts."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT I  /  TOPIC 8"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-misrepresentation-34",
+      "text": "Misrepresentation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-35",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 18 covers certain false assertions made without intent to deceive, certain breaches of duty that mislead to the advantage of the person in breach or someone claiming under them, and innocent causation of mistake as to the substance of the subject matter."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-36",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 18(1) includes positive assertions unwarranted by the maker’s information, even where believed true. Section 18(2) concerns a breach of duty that gains an advantage by misleading another to their prejudice. Section 18(3) concerns an innocent mistake about the substance of the subject matter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask whether a statement concerns an existing fact, a legal proposition, opinion or future intention. An assertion about the existence of a licence can concern fact even though licensing is governed by law. Bare statements about Indian law require attention to section 21 and the precise basis of the claim. Foreign law is treated as fact for the mistake rule in section 21."
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 19 makes a contract voidable where misrepresentation caused consent. The affected party may also insist on performance and being put in the position they would occupy if the representation were true. The ordinary-diligence exception applies to misrepresentation and fraudulent silence in the terms of section 19. See the statutory illustrations for application."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A seller honestly but without adequate information says a parcel measures two acres. The buyer relies on the statement. Check inducement, the availability of accurate information by ordinary diligence and the appropriate relief."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-37",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Distinguish innocent misrepresentation from fraud."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Discuss the kinds and effect of misrepresentation under sections 18 and 19."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Explain the three statutory limbs, show inducement, then discuss voidability and ordinary diligence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Does every incorrect statement justify rescission?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. The statement must satisfy the statutory conditions and cause consent."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT I  /  TOPIC 9"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-fraud-38",
+      "text": "Fraud"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-39",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 17 covers deliberate deception, including a knowingly false suggestion, active concealment and a promise made without intent to perform. Silence may be fraudulent where there is a duty to speak or silence is equivalent to speech."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-40",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 17 applies to acts by a contracting party, with its connivance or by its agent, with intent to deceive or induce entry into the contract. It also covers other acts fitted to deceive and acts or omissions the law specially declares fraudulent. Identify the actor, statement or concealment, dishonest intention and reliance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mere silence does not generally amount to fraud. A duty to speak can arise from the relationship or circumstances. A misleading half-truth or conduct designed to conceal a defect should be analysed under its proper limb. A later breach alone does not prove that a promise was dishonest when made."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under section 19, fraud inducing consent makes the contract voidable. The affected party may choose the statutory performance option. The ordinary-diligence proviso refers to misrepresentation and to silence fraudulent under section 17. In the English case Derry v Peek (1889) 14 App Cas 337, the court explained fraudulent misstatement through knowledge, lack of honest belief or recklessness as to truth."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A seller paints over water damage to prevent discovery and secures a purchase. Identify active concealment and ask whether the buyer’s consent was induced by it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-41",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. When can silence amount to fraud?"
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Discuss the ingredients, kinds and consequences of fraud under the Contract Act."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. State section 17, distinguish concealment and silence, test inducement and explain section 19."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Does a broken promise by itself prove fraud?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. The evidence must address intention when the promise was made."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT I  /  TOPIC 10"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-mistake-42",
+      "text": "Mistake"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-43",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under section 20 a mutual mistake about a fact essential to the agreement makes it void. An erroneous opinion about value is excluded. Section 21 deals with mistakes of law. Section 22 provides that unilateral mistake of fact alone does not make a contract voidable."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-44",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Distinguish common mistake (both share a false assumption) from parties misunderstanding each other so that consensus may be missing under section 13. In the English illustration Raffles v Wichelhaus (1864) 2 H & C 906, the parties referred to different ships with the same name. Their misunderstanding affected identification of the transaction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 20 concerns facts essential to the agreement, such as the existence of specific goods that both believe still exist. A mistake about price prospects or an opinion of value is different. Under section 21, a mistake about law in force in India does not make the contract voidable, while a mistake about foreign law has the same effect as a mistake of fact."
+    },
+    {
+      "type": "paragraph",
+      "text": "A unilateral mistake about quality generally falls within section 22. Mistakes involving identity or the nature of the document can raise whether assent existed at all, depending on materiality and the facts. Misleading conduct may separately raise fraud or misrepresentation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A and B contract for a specific item that both believe exists, but it was destroyed before contracting. Ask whether its existence was essential and apply section 20."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-45",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Explain the effect of a unilateral mistake of fact."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Discuss mistake of fact and law and their effect on an agreement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Separate sections 20–22, identify essential fact and value, explain consensus and apply an illustration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. How does section 21 treat foreign law?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. For this purpose, as fact."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT I  /  TOPIC 11"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-legality-of-object-and-consideration-46",
+      "text": "Legality of Object and Consideration"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-47",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 23 treats consideration or object as unlawful if forbidden by law, defeating a legal provision, fraudulent, injurious to person or property, immoral or opposed to public policy. Section 24 addresses partial unlawfulness within an indivisible bargain."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-48",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "The object is the end or purpose of the transaction. Consideration is what is given or promised in exchange. A promise to pay a bribe has an unlawful object. A lawful-looking structure can also defeat a statutory prohibition by achieving indirectly what the law prohibits directly."
+    },
+    {
+      "type": "paragraph",
+      "text": "The public policy category calls for careful analysis. In Gherulal Parakh v Mahadeodas Maiya, AIR 1959 SC 781, the Supreme Court held that a wager void under section 30 was not, by that fact alone, forbidden by law under section 23. Special legislation can change this result. Central Inland Water Transport Corp v Brojo Nath Ganguly, (1986) 3 SCC 156, illustrates public policy scrutiny of an unconscionable clause amid serious inequality of bargaining power."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under section 24, examine whether the lawful and unlawful terms form an indivisible consideration or object within its wording. Where promises are genuinely separable, assess the independent lawful undertaking under the applicable provisions including sections 57–58 when relevant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A pays a consultant for lawful advice and procurement of an unlawful licence in one indivisible engagement. Ascertain the contractual object and consider section 24 before attempting to enforce any part."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-49",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Name the six grounds under section 23."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain lawful object and consideration with illustrations and cases."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Distinguish object from consideration, develop each ground, explain section 24 and distinguish voidness from illegality."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Is every void wager necessarily forbidden by law?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. No under the general rule in Gherulal Parakh. Check any applicable special legislation."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-unit-i-revision-checklist-50",
+      "text": "Unit I Revision Checklist"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recall. Formation and communication • Consideration and privity • Capacity • Sections 13–22 on consent and mistake • Sections 23–24 on legality."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT II  /  TOPIC 1"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-void-voidable-and-unlawful-agreements-51",
+      "text": "Void Voidable and Unlawful Agreements"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-52",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "A void agreement is unenforceable under section 2(g). A voidable contract is enforceable at one party’s option under section 2(i). A contract becomes void under section 2(j) when it ceases to be enforceable. Under section 25 absence of consideration generally makes an agreement void, subject to stated exceptions."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-53",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlawful agreements under section 23 are void. The further effect on connected transactions depends on the statutory prohibition, connection and facts. Section 29 makes uncertain agreements void if their meaning is not capable of being made certain. Contrast section 19 voidability with a bargain void from inception. Sections 64 and 65 address restoration of benefits in their respective situations and must be applied with attention to the type of invalidity."
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 25 recognises three grounds for enforcement without consideration. One is a written and registered promise, made on account of natural love and affection, between parties standing in near relation. Another is a promise to compensate someone for a voluntary act already done for the promisor or for an act the promisor was legally compellable to do. The third is a written and signed promise to pay wholly or partly a time-barred debt. A completed gift remains valid as between giver and recipient. Section 185 separately provides that consideration is unnecessary to create an agency."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A signs a written promise to pay ₹5,000 of a debt barred by limitation. Check section 25(3), signature and the amount promised."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-54",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Name the exceptions under section 25."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain the rule that agreements without consideration are void and discuss its exceptions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Start with section 25, explain all three exceptions, distinguish completed gifts and illustrate signed debt acknowledgment versus a promise to pay."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Does near relationship alone satisfy section 25(1)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. Writing, registration, near relationship and natural love and affection are all required."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT II  /  TOPIC 2"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-restraints-on-marriage-trade-and-legal-proceedings-55",
+      "text": "Restraints on Marriage Trade and Legal Proceedings"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-56",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sections 26, 27 and 28 regulate restraints on marriage, trade and legal proceedings respectively. Learn each rule, its exceptions and the remedy affected. The policy behind one section cannot be used to invent an exception under another."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-57",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 26 makes agreements restraining marriage of any person other than a minor void. Its wording does not authorise child marriage under separate legislation. Section 27 makes restraints on a lawful profession, trade or business void to that extent. The sale-of-goodwill exception permits a restraint within specified local limits while the buyer carries on a like business and those limits are reasonable. The Partnership Act, 1932 contains specified exceptions, including sections 11(2), 36(2), 54 and 55(3) in their respective settings."
+    },
+    {
+      "type": "paragraph",
+      "text": "Employment and commercial arrangements. Niranjan Shankar Golikari v Century Spinning, AIR 1967 SC 1098, distinguished a negative covenant during employment from a post-employment restraint. Percept D’Mark v Zaheer Khan, (2006) 4 SCC 227, illustrates the stricter treatment of post-term restraints. For trade combinations and exclusive supply or distribution, examine the actual restriction, duration and economic setting. Section 27 and competition law raise distinct inquiries."
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 28 reaches absolute restrictions on ordinary enforcement, contractual limits on time to enforce, and covered extinguishment or discharge clauses that restrict enforcement. Its exceptions include specified arbitration agreements and certain qualifying written bank or financial institution guarantee terms. Parties may select one of multiple courts already competent to hear a dispute. See A.B.C. Laminart v A.P. Agencies, (1989) 2 SCC 163."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. An employment contract forbids joining any competitor for three years after resignation. Identify the post-employment restraint, apply section 27 and separately examine any valid confidentiality obligation."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-58",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Distinguish selection of a competent forum from an absolute bar on legal proceedings."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Discuss restraint of trade and its statutory exceptions, with employment illustrations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Set out section 27, explain goodwill and partnership exceptions, distinguish in-term and post-term covenants and cite the cases."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Can consent give a court jurisdiction it otherwise lacks?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. No. A valid forum-selection clause chooses among competent courts."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT II  /  TOPIC 3"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-wagering-and-contingent-contracts-59",
+      "text": "Wagering and Contingent Contracts"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-60",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sections 31–36 govern contingent contracts. Their performance depends on a collateral event. A wager under section 30 generally involves reciprocal chances of gain or loss, with the parties’ interest ordinarily limited to the stake. A wager is void under the general rule."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-61",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "A collateral event is separate from the promised performance. Under sections 32–33, enforcement depends on the event happening or becoming impossible, as the bargain requires. Section 34 addresses future conduct of a living person. Section 35 covers fixed times. Section 36 makes agreements contingent on impossible events void. An insurance contract with insurable interest is a familiar illustration of a legitimate contingent bargain."
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 30 bars suits for sums won on wagers or deposited to abide their results. The statutory horse-racing proviso concerns subscriptions or contributions toward specified prizes of ₹500 or upwards. It does not generally validate betting on horse races. Check local gaming legislation before assuming collateral transactions are lawful. Gherulal Parakh v Mahadeodas Maiya, AIR 1959 SC 781, distinguishes a void wager from a bargain forbidden by law under the general Act."
+    },
+    {
+      "type": "paragraph",
+      "text": "Commercial transactions. A genuine purchase for future delivery can remain a sale even if later settled. A common intention to settle only differences may suggest a wager in an appropriate case, subject to statutory regimes governing regulated transactions. Examine substance when a past-paper question refers to teji-mandi transactions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A homeowner insures her house against fire. She has an interest in the house independent of the policy payout. Compare this with two strangers staking money solely on whether the house burns."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-62",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Define a contingent contract."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Distinguish a contingent contract from a wager and explain their enforceability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. State sections 30–36, compare collateral event and stake, explain the horse-racing proviso accurately, and apply both examples."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Can a contingent agreement based on an impossible event be enforced?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. No. Section 36 makes it void."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT II  /  TOPIC 4"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-discharge-by-performance-63",
+      "text": "Discharge by Performance"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-64",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 37 requires performance or a valid offer to perform unless the law excuses it. Section 38 protects a promisor whose valid tender is refused. Sections 40–50 address who performs and when and where, while sections 51–55 deal with reciprocal promises and time."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-65",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tender must be unconditional and made at a proper time and place so the promisee can reasonably determine that the promisor is able and willing to perform the whole obligation. For goods, provide reasonable opportunity to inspect. Refusal of a valid tender has the consequences under section 38. Section 40 requires personal performance when the parties intended it. Other obligations may be performed through a competent person. If a promisee accepts performance from a third person, section 41 prevents later enforcement against the promisor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Timing and place depend on the terms and sections 46–50. In reciprocal promises, consider simultaneous readiness under section 51, the agreed or natural order under section 52, prevention by the other party under section 53, and the consequence of default by the party bound to perform first under section 54."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under section 55, missing the deadline makes the unperformed contract or relevant part voidable at the promisee’s option when time is essential. Where time is not essential, delay can attract compensation. A promisee accepting late performance under a voidable contract must give notice at acceptance to preserve a claim for delay compensation under the section. Hind Construction Contractors v State of Maharashtra, (1979) 2 SCC 70, illustrates why terms such as extensions and delay penalties matter to the inquiry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A caterer agrees to deliver for a wedding at noon but arrives after the meal. Explain why the nature of the event may make punctuality essential under section 55."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-66",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. State the essentials of valid tender."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Discuss discharge by performance, reciprocal promises and the effect of delay."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Start with sections 37–38, address who, when and where, analyse reciprocal promises, then apply section 55."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Does every missed contractual deadline automatically end the contract?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. No. The effect depends on the terms and section 55."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT II  /  TOPIC 5"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-discharge-by-breach-67",
+      "text": "Discharge by Breach"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-68",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Actual breach occurs when performance is due or defective performance takes place. Anticipatory breach occurs before the time for performance where a party clearly repudiates the obligation. Section 39 gives the promisee an election when the promisor refuses or disables themselves from performing the promise in its entirety."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-69",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Actual breach may be non-performance, delayed performance or defective performance. Whether it justifies ending the contract depends on the terms, nature of the obligation and applicable law. A breach may support compensation while the contract continues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Anticipatory repudiation may be express or inferred from unequivocal conduct. Under section 39 the promisee may put an end to the contract unless they have signified acquiescence in its continuance by words or conduct. Accepting repudiation generally permits a claim without waiting for the original date. Keeping the contract alive preserves obligations on both sides and exposes the agreement to later events affecting performance. Hochster v De La Tour (1853) 2 E & B 678 is the classic English illustration of an early claim."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remedies. Consider section 73 for loss caused by breach, section 74 for a stipulated sum or penalty and section 75 for compensation on rightful rescission. Separate the election to end future performance from any damages claim. Reasonable steps to reduce avoidable loss matter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. On 1 June a supplier unequivocally announces it will never deliver goods due on 1 July. Identify anticipatory breach and explain the buyer’s options and the effect on the damages inquiry."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-70",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Distinguish actual and anticipatory breach."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain anticipatory breach, section 39 and the remedies available to the promisee."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Define both breaches, explain repudiation and election, cite Hochster as illustration, and link to remedies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Can conduct signify acquiescence in continuation?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. Yes. Section 39 recognises words or conduct."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT II  /  TOPIC 6"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-impossibility-and-frustration-71",
+      "text": "Impossibility and Frustration"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-72",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 56 addresses initially impossible acts, supervening impossibility or unlawfulness, and compensation where the promisor knew or should have known of the impossibility or unlawfulness and the promisee did not. A contractual contingency may instead be governed by section 32."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-73",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Initial impossibility makes the agreement void. A contract to do something that becomes impossible or unlawful after formation becomes void when the event occurs. Frustration turns on a change striking at the foundation of the agreed performance. Mere cost increase, reduced profitability or ordinary difficulty generally does not suffice. Courts examine risk allocation, causation and whether the event was self-induced."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Satyabrata Ghose v Mugneeram Bangur, AIR 1954 SC 44, the Court held that legal impossibility can include impracticability in light of the bargain’s object. The requisition on those facts did not frustrate the contract. Energy Watchdog v CERC, (2017) 14 SCC 80, distinguished a force majeure clause governed by section 32 from frustration outside the contract under section 56, and rejected a claim based on higher fuel costs in the circumstances."
+    },
+    {
+      "type": "paragraph",
+      "text": "Typical illustrations include destruction of essential subject matter, supervening prohibition and death where personal performance is essential. Analyse each case against the terms and actual impact of the event. Section 65 may require restoration of advantages where the contract becomes void."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A licensed venue burns down before the event, and that specific venue was essential. Check the contract’s risk clause first, then assess section 56 and return of benefits under section 65."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy Watchdog v CERC  |  Judgment text"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-74",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Does a rise in cost ordinarily amount to frustration?"
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain grounds and effects of impossibility and distinguish force majeure from frustration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Set out section 56, distinguish section 32, apply the two leading cases and explain restitution."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Can a valid contract become void after formation?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. Yes, when section 56 applies to supervening impossibility or unlawfulness."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT II  /  TOPIC 7"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-discharge-by-agreement-75",
+      "text": "Discharge by Agreement"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-76",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 62 covers novation, rescission and alteration by agreement. Section 63 permits the promisee to dispense with or remit performance, extend time, or accept another satisfaction. Section 64 deals with rescission of a voidable contract."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-77",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Novation substitutes a new contract for an existing one. The substitute must be valid and the required parties must consent. Rescission under section 62 ends the obligations by agreement. Alteration changes obligations by agreement. In Lata Construction v Dr Rameshchandra Ramniklal Shah, (2000) 1 SCC 586, the Court explained that novation requires substitution of a new contract for the old one."
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 63 allows remission of all or part of the promise, waiver of performance, extension of time and acceptance of any satisfaction the promisee thinks fit. Fresh consideration is unnecessary for remission under this section. Establish whether the promisee clearly agreed and what the settlement covers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Accord is the agreement to settle and satisfaction is the performance accepted in settlement. A genuine discharge must be distinguished from a release attacked for coercion, fraud or another vitiating factor. Under section 64 a rescinding party generally restores any contractual benefit received so far as applicable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A creditor voluntarily accepts ₹8,000 as full satisfaction of ₹10,000. Consider section 63, proof that the sum was accepted in full settlement and any issue about free consent."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-78",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Distinguish novation and alteration."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain discharge by agreement and distinguish sections 62 and 63."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Define substitution, rescission and alteration, contrast remission and extension, then illustrate accord and satisfaction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Is new consideration needed for remission under section 63?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. No."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT II  /  TOPIC 8"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-quasi-contractual-obligations-79",
+      "text": "Quasi Contractual Obligations"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-80",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sections 68–72 impose obligations resembling those created by contract. They deal with necessaries, payment by an interested person, accepted non-gratuitous benefits, finders of goods and transfers made by mistake or coercion."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-81",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 68 permits reimbursement from the incapable person’s property for appropriate necessaries. Section 69 entitles an interested person who pays money that another is bound by law to pay to reimbursement. Identify both the legal obligation of the other person and the payer’s interest."
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 70 requires lawful action or delivery for another, an intention to act non-gratuitously and enjoyment of the benefit by the recipient. State of West Bengal v B.K. Mondal & Sons, AIR 1962 SC 779, applied the provision where the government enjoyed the benefit of work despite absence of an enforceable contract. Section 71 imposes on a finder who takes custody the responsibilities of a bailee."
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 72 requires repayment of money or return of a thing delivered by mistake or coercion. Sales Tax Officer v Kanhaiya Lal Mukund Lal Saraf, AIR 1959 SC 135, held that mistake in section 72 includes mistake of law. For statutory levies, examine the governing refund regime and applicable limits before applying the general principle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A business mistakenly transfers a duplicate payment to a vendor. Identify the transfer and mistake, then examine restitution under section 72."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-82",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. List the three conditions of section 70."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain quasi-contractual obligations under sections 68–72 with cases."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Explain why law imposes restitution, state each provision and illustrate sections 70 and 72."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Is every benefit conferred on another recoverable under section 70?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. No. The statutory elements include non-gratuitous intention and enjoyment of the benefit."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT II  /  TOPIC 9"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-remedies-for-breach-of-contract-83",
+      "text": "Remedies for Breach of Contract"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-84",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 73 awards compensation for loss arising naturally or within the parties’ contemplation when contracting, subject to proof and mitigation. Section 74 allows reasonable compensation up to the stipulated sum or penalty. Section 75 concerns compensation after rightful rescission."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-85",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 73 excludes remote or indirect loss. The familiar two limbs are ordinary loss arising in the usual course and special loss that the parties knew to be likely at formation. Hadley v Baxendale (1854) 9 Exch 341 is the English illustration. Mitigation means reasonable steps to avoid increasing loss. Distinguish ordinary, special and nominal damages and explain why exceptional damages require a separate legal basis."
+    },
+    {
+      "type": "paragraph",
+      "text": "A stipulated sum may be a genuine pre-estimate or may operate as a penalty. Section 74 controls recovery in either case. Fateh Chand v Balkishan Das, AIR 1963 SC 1405, held that the sum is a ceiling and the award must be reasonable. Kailash Nath Associates v DDA, (2015) 4 SCC 136, explains the role of breach and loss. Proof of precise loss may be unnecessary where assessment is difficult and a genuine pre-estimate is reasonable. Where loss can be proved, it should ordinarily be proved. Check the statutory exception for specified public-duty bonds."
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 75 permits compensation to a party who rightfully rescinds. Other remedies, such as specific performance and injunction, have their own requirements under the Specific Relief Act, 1963. Quantum meruit concerns reasonable remuneration where the governing legal basis allows it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A seller defaults and the buyer reasonably buys substitute goods at a higher price. Compare the prices, test causation and mitigation, and consider whether any claimed lost profits are too remote."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-86",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. Distinguish liquidated damages and penalty."
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Explain the measure and remoteness of damages under sections 73 and 74."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Explain ordinary and special loss, mitigation and proof, then distinguish pre-estimate, penalty and statutory ceiling."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Does a named sum automatically become payable in full?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. Section 74 limits the award to reasonable compensation up to that sum."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW OF CONTRACT  /  UNIT II  /  TOPIC 10"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "law-of-contract-standard-form-contracts-87",
+      "text": "Standard Form Contracts"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-short-revision-note-88",
+      "text": "Short Revision Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard form contracts use terms prepared in advance for repeated transactions. They reduce transaction costs. Analyse incorporation, notice, construction and enforceability as separate questions. Consumer law may supply specific protection against unfair terms."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-detailed-study-note-89",
+      "text": "Detailed Study Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Read the signature, notice and formation facts. Terms should be incorporated before or at contracting. An unsigned ticket or later invoice may fail to incorporate a term where reasonable notice was absent when the contract was made. Especially onerous terms call for clear notice. Ambiguous terms may be construed against the party that supplied them where the applicable interpretive rule permits."
+    },
+    {
+      "type": "paragraph",
+      "text": "Signature or online assent is evidence of acceptance. Examine misrepresentation, statutory prohibitions and unfairness separately. A valid exclusion clause is construed according to its wording and governing law. Central Inland Water Transport Corp v Brojo Nath Ganguly, (1986) 3 SCC 156, addressed a harsh service rule and serious inequality of bargaining power. Its public policy reasoning requires attention to the transaction and the parties."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Consumer Protection Act, 2019, section 2(46), defines unfair contract in the specified consumer setting and gives examples such as manifestly excessive deposits or disproportionate penalties. Examine whether the parties and transaction fall within that Act and what remedy and forum its provisions permit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypothetical illustration. A car park prints a broad exclusion on a ticket delivered only after payment. Identify the moment of formation and test notice and statutory enforceability before applying the clause."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-exam-practice-90",
+      "text": "Exam Practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 marks. What is a standard form contract?"
+    },
+    {
+      "type": "paragraph",
+      "text": "11 marks. Discuss the benefits and risks of standard form contracts and the rules controlling unfair clauses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer plan. Define and illustrate, analyse notice and interpretation, then explain public policy and consumer protection."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-test. Can a post-contract term bind merely because it appears on a receipt?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer. Its incorporation or subsequent assent must be established."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "law-of-contract-unit-ii-revision-checklist-91",
+      "text": "Unit II Revision Checklist"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recall. Void agreements and restraints • Contingent contracts and wagers • Modes of discharge • Quasi-contract • Damages and standard terms."
+    }
+  ]
+}

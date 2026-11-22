@@ -1,0 +1,947 @@
+{
+  "id": "semester-i-syllabus",
+  "title": "Semester I Syllabus and Trackers",
+  "paper": "Papers I?V",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PUNJABI UNIVERSITY PATIALA  /  THREE YEAR LL.B.  /  SEMESTER I 2026"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "id": "semester-i-syllabus-jurisprudence-1",
+      "text": "Jurisprudence"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "semester-i-syllabus-paper-1-syllabus-and-progress-tracker-2",
+      "text": "Paper 1  •  Syllabus and progress tracker"
+    },
+    {
+      "type": "paragraph",
+      "text": "Name _________________________   Target date _______________   Last updated _______________"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tick each box as you finish. Notes means both the short and detailed versions are ready."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "semester-i-syllabus-unit-i-3",
+      "text": "Unit I"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Syllabus topic",
+          "Notes",
+          "Studied",
+          "Revised",
+          "Practice"
+        ],
+        [
+          "Meaning, nature and scope of jurisprudence",
+          "✓",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Purpose and functions of law",
+          "✓",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Definition, kinds and classification of law",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Administration of justice · civil and criminal administration · theories of punishment",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Custom · meaning, kinds, essentials of a valid custom and recognition as law",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Precedent · meaning, importance, merits, demerits, operation in India and judicial lawmaking",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Legislation · meaning, supreme and subordinate legislation",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Analytical school · Kelsen’s pure theory of law",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Historical school · sociological school",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "semester-i-syllabus-unit-ii-4",
+      "text": "Unit II"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Syllabus topic",
+          "Notes",
+          "Studied",
+          "Revised",
+          "Practice"
+        ],
+        [
+          "State · definition, elements, theories of origin and relationship with law",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Codification · meaning, classification, merits and demerits",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Rights and duties · meaning, theories of rights, elements and classification",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Legal personality · meaning, nature and status of unborn persons, dead persons and animals",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Corporate personality · nature, theories, benefits of incorporation and corporate liability",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Possession · meaning, analysis, de facto and de jure possession, kinds and acquisition",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Possession · remedies, possessor’s rights, protection, possession in fact and in law",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Ownership · definition, classes, acquisition and relationship with possession",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Property · meaning, theories, kinds and modes of acquisition",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "University exam  •  3 hours  •  74 marks  •  Two 11-mark answers from each unit + ten compulsory 3-mark answers"
+    },
+    {
+      "type": "paragraph",
+      "text": "PUNJABI UNIVERSITY PATIALA  /  THREE YEAR LL.B.  /  SEMESTER I 2026"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "id": "semester-i-syllabus-constitutional-law-5",
+      "text": "Constitutional Law"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "semester-i-syllabus-paper-2-syllabus-and-progress-tracker-6",
+      "text": "Paper 2  •  Syllabus and progress tracker"
+    },
+    {
+      "type": "paragraph",
+      "text": "Name _________________________   Target date _______________   Last updated _______________"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tick each box as you finish. Notes means both the short and detailed versions are ready."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "semester-i-syllabus-unit-i-7",
+      "text": "Unit I"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Syllabus topic",
+          "Notes",
+          "Studied",
+          "Revised",
+          "Practice"
+        ],
+        [
+          "Nature and salient features of the Constitution",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Preamble",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "The Union and its territory",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Citizenship",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "State under Article 12",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Fundamental rights · to whom available",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Judicial review under Article 13",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Right to equality · Articles 14–18",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Right to freedom · Articles 19–22",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "semester-i-syllabus-unit-ii-8",
+      "text": "Unit II"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Syllabus topic",
+          "Notes",
+          "Studied",
+          "Revised",
+          "Practice"
+        ],
+        [
+          "Right against exploitation · Articles 23–24",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Freedom of religion · Articles 25–28",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Saving of certain laws · Articles 31A, 31B and 31C",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Cultural and educational rights · Articles 29–30",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Directive Principles of State Policy · Articles 36–51",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Fundamental duties",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Union judiciary",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "State judiciary",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Writ jurisdiction of higher courts and judicial activism in India",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "University exam  •  3 hours  •  74 marks  •  Two 11-mark answers from each unit + ten compulsory 3-mark answers"
+    },
+    {
+      "type": "paragraph",
+      "text": "PUNJABI UNIVERSITY PATIALA  /  THREE YEAR LL.B.  /  SEMESTER I 2026"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "id": "semester-i-syllabus-law-of-contract-9",
+      "text": "Law of Contract"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "semester-i-syllabus-paper-3-syllabus-and-progress-tracker-10",
+      "text": "Paper 3  •  Syllabus and progress tracker"
+    },
+    {
+      "type": "paragraph",
+      "text": "Name _________________________   Target date _______________   Last updated _______________"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tick each box as you finish. Notes means both the short and detailed versions are ready."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "semester-i-syllabus-unit-i-11",
+      "text": "Unit I"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Syllabus topic",
+          "Notes",
+          "Studied",
+          "Revised",
+          "Practice"
+        ],
+        [
+          "Agreement and contract · definitions and elements",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Proposal and acceptance · forms, essentials, communication, revocation and invitation to offer",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Consideration · meaning, kinds, essentials, past, present, adequacy, existing duties and privity",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Capacity · status, mental capacity, minors’ beneficial and detrimental agreements, ratification and necessaries",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Free consent · definition, need and vitiating factors",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Coercion · definition, essentials, duress and effect",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Undue influence · elements, relationships, burden, pardanashin women, advice, unconscionable bargains and effect",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Misrepresentation · law and fact, definition and effects",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Fraud · elements, concealment, intention and silence",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Mistake · kinds, law and fact, and effects",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Lawful object and consideration · prohibition, defeating law, fraud, injury, immorality and public policy",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "semester-i-syllabus-unit-ii-12",
+      "text": "Unit II"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Syllabus topic",
+          "Notes",
+          "Studied",
+          "Revised",
+          "Practice"
+        ],
+        [
+          "Void, voidable and unlawful agreements · effects and agreements without consideration",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Restraints on marriage, trade and legal proceedings · exceptions, goodwill, partnership, trade combinations, exclusive dealings and employment",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Wagering agreements and exceptions · contingent contracts, enforcement and distinction from wagers",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Discharge by performance · valid tender, who performs, when and how, reciprocal promises and time",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Discharge by breach · present and anticipatory breach",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Impossibility · grounds and effects of frustration",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Discharge by agreement · rescission, novation, remission, waiver, extension, accord and satisfaction",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Quasi-contractual relations",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Breach remedies · kinds and remoteness of damages, liquidated damages and penalty",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Standard form contracts",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "University exam  •  3 hours  •  74 marks  •  Two 11-mark answers from each unit + ten compulsory 3-mark answers"
+    },
+    {
+      "type": "paragraph",
+      "text": "PUNJABI UNIVERSITY PATIALA  /  THREE YEAR LL.B.  /  SEMESTER I 2026"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "id": "semester-i-syllabus-family-law-i-13",
+      "text": "Family Law I"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "semester-i-syllabus-paper-4-syllabus-and-progress-tracker-14",
+      "text": "Paper 4  •  Syllabus and progress tracker"
+    },
+    {
+      "type": "paragraph",
+      "text": "Name _________________________   Target date _______________   Last updated _______________"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tick each box as you finish. Notes means both the short and detailed versions are ready."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "semester-i-syllabus-unit-i-15",
+      "text": "Unit I"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Syllabus topic",
+          "Notes",
+          "Studied",
+          "Revised",
+          "Practice"
+        ],
+        [
+          "Sources of Hindu law · ancient and modern",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Hindu Marriage Act, 1955 · application, conditions, ceremonies and registration",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Restitution of conjugal rights and judicial separation",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Nullity · void and voidable marriages",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Divorce · contested, mutual consent and customary divorce",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Legitimacy of children",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Jurisdiction and bars to matrimonial remedies",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Maintenance pendente lite and permanent alimony and maintenance",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "semester-i-syllabus-unit-ii-16",
+      "text": "Unit II"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Syllabus topic",
+          "Notes",
+          "Studied",
+          "Revised",
+          "Practice"
+        ],
+        [
+          "Special Marriage Act, 1954 · conditions and registration",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Restitution of conjugal rights and judicial separation",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Nullity · void and voidable marriages",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Divorce and divorce by mutual consent",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Muslim law · marriage and dower",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Muslim law · divorce",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Dissolution of Muslim Marriages Act, 1939",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "University exam  •  3 hours  •  74 marks  •  Two 11-mark answers from each unit + ten compulsory 3-mark answers"
+    },
+    {
+      "type": "paragraph",
+      "text": "PUNJABI UNIVERSITY PATIALA  /  THREE YEAR LL.B.  /  SEMESTER I 2026"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "id": "semester-i-syllabus-law-of-torts-motor-vehicle-accidents-and-consumer-protection-17",
+      "text": "Law of Torts, Motor Vehicle Accidents and Consumer Protection"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "semester-i-syllabus-paper-5-syllabus-and-progress-tracker-18",
+      "text": "Paper 5  •  Syllabus and progress tracker"
+    },
+    {
+      "type": "paragraph",
+      "text": "Name _________________________   Target date _______________   Last updated _______________"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tick each box as you finish. Notes means both the short and detailed versions are ready."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "semester-i-syllabus-unit-i-19",
+      "text": "Unit I"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Syllabus topic",
+          "Notes",
+          "Studied",
+          "Revised",
+          "Practice"
+        ],
+        [
+          "Origin and development · meaning, definitions and nature of tort",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Tort distinguished from crime and breach of contract",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Constituents · wrongful act, legal damage and remedy · damnum sine injuria and injuria sine damno",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "General defences · volenti, necessity, act of God, inevitable accident, private defence, statutory authority and plaintiff’s default",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Vicarious liability · meaning, employer and State liability",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Defamation · libel, slander, constituents and defences",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "semester-i-syllabus-unit-ii-20",
+      "text": "Unit II"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Syllabus topic",
+          "Notes",
+          "Studied",
+          "Revised",
+          "Practice"
+        ],
+        [
+          "Torts against the person · assault, battery, false imprisonment and malicious prosecution",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Negligence · constituents, res ipsa loquitur and contributory negligence",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Nuisance · essentials and defences",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Death in tort · survival of actions, actio personalis moritur cum persona, Baker v Bolton and exceptions",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Strict liability and absolute liability",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Motor Vehicles Act, 1988 (2019 amendments) · compulsory insurance and compensation (ss. 145–160)",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Motor accident claims · hit-and-run (ss. 161, 163 as listed), no fault (s. 164), fund (s. 164B), tribunals (ss. 165–176)",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Consumer protection · objects and definitions of complaint, complainant, consumer and service",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Central Consumer Protection Authority · redressal commissions, composition and jurisdiction",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ],
+        [
+          "Complaints · filing, procedure and limitation · product liability, offences and penalties",
+          "☐",
+          "☐",
+          "☐",
+          "☐"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The syllabus names the Consumer Protection Act, 1986 and lists topics under the 2019 Act, including the Central Consumer Protection Authority and product liability."
+    },
+    {
+      "type": "paragraph",
+      "text": "University exam  •  3 hours  •  74 marks  •  Two 11-mark answers from each unit + ten compulsory 3-mark answers"
+    }
+  ]
+}

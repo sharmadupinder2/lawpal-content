@@ -1,0 +1,103 @@
+{
+  "title": "Semester I Law Study Resources",
+  "institution": "Punjabi University, Patiala",
+  "course": "Three-year LL.B.",
+  "semester": "Semester I",
+  "resources": [
+    {
+      "id": "family-law-i",
+      "title": "Family Law I",
+      "paper": "Paper IV",
+      "category": "Subject notes",
+      "description": "Semester I notes on Hindu, Special Marriage Act and Muslim family law, with revision notes, detailed study, exam practice and checklists.",
+      "contentFile": "family-law-i.json",
+      "downloads": [
+        {
+          "label": "Download DOCX",
+          "filename": "LawPal_India_Family_Law_I_Legal_Size_Notes.docx",
+          "format": "DOCX"
+        }
+      ]
+    },
+    {
+      "id": "law-of-contract",
+      "title": "Law of Contract",
+      "paper": "Paper III",
+      "category": "Subject notes",
+      "description": "Semester I notes covering agreement, contract formation, consent, performance, discharge and remedies.",
+      "contentFile": "law-of-contract.json",
+      "downloads": [
+        {
+          "label": "Download DOCX",
+          "filename": "LawPal_India_Law_of_Contract_Legal_Size_Notes.docx",
+          "format": "DOCX"
+        }
+      ]
+    },
+    {
+      "id": "constitutional-law",
+      "title": "Constitutional Law",
+      "paper": "Paper II",
+      "category": "Subject notes",
+      "description": "Semester I notes on the Constitution, fundamental rights, directive principles, duties and the Union and State judiciary.",
+      "contentFile": "constitutional-law.json",
+      "downloads": [
+        {
+          "label": "Download DOCX",
+          "filename": "LawPal_India_Constitutional_Law_Legal_Size_Notes.docx",
+          "format": "DOCX"
+        }
+      ]
+    },
+    {
+      "id": "law-of-torts",
+      "title": "Law of Torts, Motor Vehicle Accidents and Consumer Protection",
+      "paper": "Paper V",
+      "category": "Subject notes",
+      "description": "Semester I notes on tort principles, liability, motor accident claims and consumer protection.",
+      "contentFile": "law-of-torts.json",
+      "downloads": [
+        {
+          "label": "Download DOCX",
+          "filename": "LawPal_India_Law_of_Torts_Legal_Size_Notes.docx",
+          "format": "DOCX"
+        }
+      ]
+    },
+    {
+      "id": "jurisprudence",
+      "title": "Jurisprudence",
+      "paper": "Paper I",
+      "category": "Subject notes",
+      "description": "Semester I notes on the nature, sources, functions and schools of law, rights, duties, personality, possession and ownership.",
+      "contentFile": "jurisprudence.json",
+      "downloads": [
+        {
+          "label": "Download DOCX",
+          "filename": "LawPal_India_Jurisprudence_Legal_Size_Notes.docx",
+          "format": "DOCX"
+        },
+        {
+          "label": "Download PDF",
+          "filename": "LawPal_India_Jurisprudence_Legal_Size_Notes.pdf",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "id": "semester-i-syllabus",
+      "title": "Semester I Syllabus and Trackers",
+      "paper": "Papers I-V",
+      "category": "Syllabus and trackers",
+      "description": "Punjabi University Semester I syllabus overview and progress trackers for all five LL.B. papers.",
+      "contentFile": "semester-i-syllabus.json",
+      "downloads": [
+        {
+          "label": "Download DOCX",
+          "filename": "LawPal_India_Semester_I_Syllabus_Trackers.docx",
+          "format": "DOCX"
+        }
+      ]
+    }
+  ]
+}
